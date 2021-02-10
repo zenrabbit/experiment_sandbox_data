@@ -500,17 +500,18 @@ problems(birds)</code></pre>
 <pre><code>## [1] row      col      expected actual  
 ## &lt;0 rows&gt; (or 0-length row.names)</code></pre>
 <pre class="r"><code>str(birds)</code></pre>
-<pre><code>## tibble [826 × 10] (S3: spec_tbl_df/tbl_df/tbl/data.frame)
-##  $ year      : num [1:826] 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 ...
-##  $ experiment: chr [1:826] &quot;balcony birdwatching&quot; &quot;balcony birdwatching&quot; &quot;balcony birdwatching&quot; &quot;balcony birdwatching&quot; ...
-##  $ source    : chr [1:826] &quot;full&quot; &quot;full&quot; &quot;full&quot; &quot;pilot&quot; ...
-##  $ rep       : num [1:826] 1 1 1 1 1 1 1 1 1 1 ...
-##  $ date      : Date[1:826], format: &quot;2020-10-14&quot; &quot;2020-10-18&quot; ...
-##  $ location  : chr [1:826] &quot;Holditch Street&quot; &quot;Fred Young Park&quot; &quot;Fred Young Park&quot; &quot;Holditch St Bracebridge&quot; ...
-##  $ species   : chr [1:826] &quot;Catharus guttatus&quot; &quot;Corvus brachyrhynchos&quot; &quot;Corvus brachyrhynchos&quot; &quot;Corvus brachyrhynchos&quot; ...
-##  $ frequency : num [1:826] 1 1 1 1 1 1 1 1 1 1 ...
-##  $ behaviour : chr [1:826] &quot;flying&quot; &quot;flying&quot; &quot;flying&quot; &quot;flying&quot; ...
-##  $ inititals : chr [1:826] &quot;RD&quot; &quot;RD&quot; &quot;RD&quot; &quot;RD&quot; ...
+<pre><code>## tibble [826 × 11] (S3: spec_tbl_df/tbl_df/tbl/data.frame)
+##  $ year        : num [1:826] 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 ...
+##  $ experiment  : chr [1:826] &quot;balcony birdwatching&quot; &quot;balcony birdwatching&quot; &quot;balcony birdwatching&quot; &quot;balcony birdwatching&quot; ...
+##  $ source      : chr [1:826] &quot;full&quot; &quot;full&quot; &quot;full&quot; &quot;pilot&quot; ...
+##  $ rep         : num [1:826] 1 1 1 1 1 1 1 1 1 1 ...
+##  $ date        : Date[1:826], format: &quot;2020-10-14&quot; &quot;2020-10-18&quot; ...
+##  $ location    : chr [1:826] &quot;Holditch Street&quot; &quot;Fred Young Park&quot; &quot;Fred Young Park&quot; &quot;Holditch St Bracebridge&quot; ...
+##  $ species     : chr [1:826] &quot;Catharus guttatus&quot; &quot;Corvus brachyrhynchos&quot; &quot;Corvus brachyrhynchos&quot; &quot;Corvus brachyrhynchos&quot; ...
+##  $ frequency   : num [1:826] 1 1 1 1 1 1 1 1 1 1 ...
+##  $ behaviour   : chr [1:826] &quot;flying&quot; &quot;flying&quot; &quot;flying&quot; &quot;flying&quot; ...
+##  $ inititals   : chr [1:826] &quot;RD&quot; &quot;RD&quot; &quot;RD&quot; &quot;RD&quot; ...
+##  $ citation_DOI: logi [1:826] NA NA NA NA NA NA ...
 ##  - attr(*, &quot;spec&quot;)=
 ##   .. cols(
 ##   ..   year = col_double(),
@@ -522,7 +523,8 @@ problems(birds)</code></pre>
 ##   ..   species = col_character(),
 ##   ..   frequency = col_double(),
 ##   ..   behaviour = col_character(),
-##   ..   inititals = col_character()
+##   ..   inititals = col_character(),
+##   ..   citation_DOI = col_logical()
 ##   .. )</code></pre>
 <pre class="r"><code>skim(birds)</code></pre>
 <table>
@@ -538,7 +540,7 @@ problems(birds)</code></pre>
 </tr>
 <tr class="odd">
 <td align="left">Number of columns</td>
-<td align="left">10</td>
+<td align="left">11</td>
 </tr>
 <tr class="even">
 <td align="left">_______________________</td>
@@ -557,14 +559,18 @@ problems(birds)</code></pre>
 <td align="left">1</td>
 </tr>
 <tr class="even">
+<td align="left">logical</td>
+<td align="left">1</td>
+</tr>
+<tr class="odd">
 <td align="left">numeric</td>
 <td align="left">3</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">________________________</td>
 <td align="left"></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">Group variables</td>
 <td align="left">None</td>
 </tr>
@@ -672,6 +678,27 @@ problems(birds)</code></pre>
 </tr>
 </tbody>
 </table>
+<p><strong>Variable type: logical</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th align="left">skim_variable</th>
+<th align="right">n_missing</th>
+<th align="right">complete_rate</th>
+<th align="right">mean</th>
+<th align="left">count</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">citation_DOI</td>
+<td align="right">826</td>
+<td align="right">0</td>
+<td align="right">NaN</td>
+<td align="left">:</td>
+</tr>
+</tbody>
+</table>
 <p><strong>Variable type: numeric</strong></p>
 <table>
 <thead>
@@ -738,16 +765,17 @@ problems(survey)</code></pre>
 <pre><code>## [1] row      col      expected actual  
 ## &lt;0 rows&gt; (or 0-length row.names)</code></pre>
 <pre class="r"><code>str(survey)</code></pre>
-<pre><code>## tibble [581 × 9] (S3: spec_tbl_df/tbl_df/tbl/data.frame)
+<pre><code>## tibble [581 × 10] (S3: spec_tbl_df/tbl_df/tbl/data.frame)
 ##  $ year            : num [1:581] 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 ...
 ##  $ experiment      : chr [1:581] &quot;solo survey&quot; &quot;solo survey&quot; &quot;solo survey&quot; &quot;solo survey&quot; ...
-##  $ source          : chr [1:581] &quot;full&quot; &quot;full&quot; &quot;full&quot; &quot;full&quot; ...
-##  $ rep             : num [1:581] 1 2 3 4 5 6 7 8 9 10 ...
-##  $ date            : Date[1:581], format: &quot;2020-09-23&quot; &quot;2020-09-23&quot; ...
-##  $ location        : chr [1:581] &quot;Taylor Creek Park&quot; &quot;Taylor Creek Park&quot; &quot;Taylor Creek Park&quot; &quot;Taylor Creek Park&quot; ...
-##  $ species_richness: num [1:581] 3 4 3 3 2 4 3 4 3 5 ...
-##  $ total_cover     : num [1:581] 80 80 70 30 90 80 60 100 90 100 ...
-##  $ inititals       : chr [1:581] &quot;AA&quot; &quot;AA&quot; &quot;AA&quot; &quot;AA&quot; ...
+##  $ source          : chr [1:581] &quot;full&quot; &quot;full&quot; &quot;pilot&quot; &quot;full&quot; ...
+##  $ rep             : num [1:581] 1 1 1 1 1 1 1 1 1 1 ...
+##  $ date            : Date[1:581], format: &quot;2020-09-23&quot; &quot;2020-10-04&quot; ...
+##  $ location        : chr [1:581] &quot;Taylor Creek Park&quot; &quot;High Park: Hillside Gardens&quot; &quot;Firgrove Park&quot; &quot;Firgrove Park&quot; ...
+##  $ species_richness: num [1:581] 3 15 5 3 2 1 4 1 1 1 ...
+##  $ total_cover     : num [1:581] 80 35 80 12 8 4 16 4 4 4 ...
+##  $ inititals       : chr [1:581] &quot;AA&quot; &quot;HD&quot; &quot;FO&quot; &quot;FO&quot; ...
+##  $ citation_DOI    : chr [1:581] &quot;https://doi.org/10.6084/m9.figshare.13125554.v1&quot; &quot;https://doi.org/10.6084/m9.figshare.13115222.v1&quot; &quot;https://doi.org/10.6084/m9.figshare.13020353.v8&quot; &quot;https://doi.org/10.6084/m9.figshare.13113929.v1&quot; ...
 ##  - attr(*, &quot;spec&quot;)=
 ##   .. cols(
 ##   ..   year = col_double(),
@@ -758,7 +786,8 @@ problems(survey)</code></pre>
 ##   ..   location = col_character(),
 ##   ..   species_richness = col_double(),
 ##   ..   total_cover = col_double(),
-##   ..   inititals = col_character()
+##   ..   inititals = col_character(),
+##   ..   citation_DOI = col_character()
 ##   .. )</code></pre>
 <pre class="r"><code>skim(survey)</code></pre>
 <table>
@@ -774,7 +803,7 @@ problems(survey)</code></pre>
 </tr>
 <tr class="odd">
 <td align="left">Number of columns</td>
-<td align="left">9</td>
+<td align="left">10</td>
 </tr>
 <tr class="even">
 <td align="left">_______________________</td>
@@ -786,7 +815,7 @@ problems(survey)</code></pre>
 </tr>
 <tr class="even">
 <td align="left">character</td>
-<td align="left">4</td>
+<td align="left">5</td>
 </tr>
 <tr class="odd">
 <td align="left">Date</td>
@@ -859,6 +888,16 @@ problems(survey)</code></pre>
 <td align="right">2</td>
 <td align="right">0</td>
 <td align="right">6</td>
+<td align="right">0</td>
+</tr>
+<tr class="odd">
+<td align="left">citation_DOI</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">47</td>
+<td align="right">47</td>
+<td align="right">0</td>
+<td align="right">8</td>
 <td align="right">0</td>
 </tr>
 </tbody>
