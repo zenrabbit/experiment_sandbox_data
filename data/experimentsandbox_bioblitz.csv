@@ -1,462 +1,462 @@
 year,experiment,source,rep,date,time,location,habitat,taxa,species,initials
-2020,bioblitz,pilot,204,9/25/2020,15:00,Deer Park,backyard,invertebrate,Acalymma vittatum,AT
-2020,bioblitz,full,90,10/14/2020,7:03,Woodward Woodlot,woodlot,vertebrate,Accipiter cooperii,JT
-2020,bioblitz,full,164,10/18/2020,7:31,Woodward Woodlot,woodlot,vertebrate,Accipiter cooperii,JT
-2020,bioblitz,full,113,10/16/2020,15:35,Behind apartment building,flying,vertebrate,Agelaius phoeniceus,MC
-2020,bioblitz,full,123,10/17/2020,16:11,Behind apartment building,tree,vertebrate,Agelaius phoeniceus,MC
-2020,bioblitz,pilot,305,9/26/2020,13:30,Crothers Woods,forest,vertebrate,Anas platyrhynchos,AT
-2020,bioblitz,full,34,10/11/2020,6:31,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,full,40,10/11/2020,13:34,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,full,47,10/11/2020,20:31,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,full,114,10/15/2020,6:32,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,full,117,10/15/2020,13:30,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,full,124,10/15/2020,20:32,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,full,186,10/19/2020,6:33,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,full,191,10/19/2020,13:32,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,full,199,10/19/2020,20:31,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,pilot,8,9/24/2020,15:36,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
-2020,bioblitz,pilot,29,9/28/2020,9:11,Black Creek Parkland,water,vertebrate,Anatidae ssp,MC
-2020,bioblitz,pilot,30,9/28/2020,9:11,Black Creek Parkland,water,vertebrate,Anatidae ssp,MC
-2020,bioblitz,full,32,10/12/2020,15:19,Backyard,flying,invertebrate,Anthophila ssp,MC
-2020,bioblitz,full,75,10/14/2020,14:29,Backyard,ground,invertebrate,Anthophila ssp,MC
-2020,bioblitz,full,38,10/11/2020,13:33,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
-2020,bioblitz,full,45,10/11/2020,14:26,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
-2020,bioblitz,full,120,10/15/2020,13:42,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
-2020,bioblitz,full,123,10/15/2020,14:13,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
-2020,bioblitz,full,193,10/19/2020,13:39,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
-2020,bioblitz,pilot,7,9/24/2020,15:35,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
-2020,bioblitz,full,47,10/13/2020,15:58,Frontyard,ground,invertebrate,Araneae ssp,MC
-2020,bioblitz,full,9,10/10/2020,7:18,Woodward Woodlot,woodlot,invertebrate,Araneae ssp,JT
-2020,bioblitz,full,79,10/17/2020,6:32,Woodward Woodlot,woodlot,invertebrate,Araneae ssp,JT
-2020,bioblitz,full,154,10/18/2020,6:35,Woodward Woodlot,woodlot,invertebrate,Araneae ssp,JT
-2020,bioblitz,pilot,2,9/27/2020,19:21,Finch Hydro Corridor Recreational Trail,flying,vertebrate,Aves ssp,MC
-2020,bioblitz,pilot,303,9/26/2020,13:30,Crothers Woods,forest,invertebrate,Bradysia ssp,AT
-2020,bioblitz,full,33,10/11/2020,6:31,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,full,39,10/11/2020,13:33,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,full,46,10/11/2020,20:30,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,full,113,10/15/2020,6:31,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,full,118,10/15/2020,13:30,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,full,125,10/15/2020,20:33,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,full,187,10/19/2020,6:33,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,full,192,10/19/2020,13:32,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,full,200,10/19/2020,20:32,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,pilot,6,9/24/2020,15:31,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
-2020,bioblitz,pilot,105,9/23/2020,15:15,Deer Park,backyard,invertebrate,Bryobia praetiosa,AT
-2020,bioblitz,pilot,304,9/26/2020,13:30,Crothers Woods,forest,Cepaea hortensis,Bryobia praetiosa,AT
-2020,bioblitz,full,6,10/10/2020,7:02,Woodward Woodlot,woodlot,vertebrate,Buteo jamaicensis,JT
-2020,bioblitz,pilot,102,9/23/2020,15:15,Deer Park,backyard,invertebrate,Camponotus pennsylvanicus,AT
-2020,bioblitz,pilot,202,9/25/2020,15:00,Deer Park,backyard,invertebrate,Camponotus pennsylvanicus,AT
-2020,bioblitz,pilot,3,9/24/2020,15:17,Woodward Woodlot,woodlot,invertebrate,Camponotus pennsylvanicus,JT
-2020,bioblitz,full,56,10/12/2020,6:52,Dempsey Park,woodlot,vertebrate,Cardinalis cardinalis,JT
-2020,bioblitz,pilot,302,9/26/2020,13:30,Crothers Woods,forest,Cepaea hortensis,Cepaea hortensis,AT
-2020,bioblitz,full,35,10/11/2020,6:49,Sprucedale Pond,water,Cepaea hortensis,Cepaea nemoralis,JT
-2020,bioblitz,full,108,10/14/2020,20:55,Woodward Woodlot,woodlot,vertebrate,Chordeiles minor,JT
-2020,bioblitz,full,181,10/18/2020,20:54,Woodward Woodlot,woodlot,vertebrate,Chordeiles minor,JT
-2020,bioblitz,full,50,10/11/2020,20:58,Sprucedale Pond,water,vertebrate,Chrysemys picta,JT
-2020,bioblitz,full,93,10/14/2020,13:38,Woodward Woodlot,woodlot,vertebrate,Colaptes auratus,JT
-2020,bioblitz,full,167,10/18/2020,13:38,Woodward Woodlot,woodlot,vertebrate,Colaptes auratus,JT
-2020,bioblitz,pilot,11,9/27/2020,19:45,Black Creek Parkland,ground,invertebrate,Coleoptera ssp,MC
-2020,bioblitz,pilot,27,9/28/2020,9:06,Finch Hydro Corridor Recreational Trail,power line,vertebrate,Columba livia,MC
-2020,bioblitz,full,105,10/16/2020,15:23,Behind apartment building,balcony,vertebrate,Columba livia,MC
-2020,bioblitz,full,106,10/16/2020,15:23,Behind apartment building,balcony,vertebrate,Columba livia,MC
-2020,bioblitz,full,116,10/16/2020,15:55,Behind apartment building,flying,vertebrate,Columba livia,MC
-2020,bioblitz,full,126,10/17/2020,16:25,Behind apartment building,balcony,vertebrate,Columba livia,MC
-2020,bioblitz,full,138,10/18/2020,15:22,Behind apartment building,balcony,vertebrate,Columba livia,MC
-2020,bioblitz,full,139,10/18/2020,15:22,Behind apartment building,balcony,vertebrate,Columba livia,MC
-2020,bioblitz,full,140,10/18/2020,15:22,Behind apartment building,flying,vertebrate,Columba livia,MC
-2020,bioblitz,pilot,206,9/25/2020,15:00,Deer Park,backyard,invertebrate,Contacyphon ssp,AT
-2020,bioblitz,full,13,10/11/2020,15:14,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,21,10/11/2020,15:43,Frontyard,power line,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,25,10/12/2020,15:11,Frontyard,power line,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,40,10/12/2020,15:40,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,41,10/12/2020,15:42,Backyard,tree,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,58,10/13/2020,16:15,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,61,10/13/2020,16:28,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,63,10/13/2020,16:41,Backyard,tree,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,66,10/13/2020,16:52,Frontyard,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,67,10/13/2020,16:52,Frontyard,power line,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,74,10/14/2020,14:29,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,76,10/14/2020,14:32,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,93,10/14/2020,15:09,Frontyard,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,94,10/14/2020,15:09,Frontyard,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,97,10/15/2020,14:03,Behind apartment building,tree,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,127,10/17/2020,16:30,Behind apartment building,flying,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,128,10/17/2020,16:33,Behind apartment building,power line,vertebrate,Corvus brachyrhynchos,MC
-2020,bioblitz,full,8,10/10/2020,7:13,Woodward Woodlot,woodlot,vertebrate,Corvus brachyrhynchos,JT
-2020,bioblitz,full,19,10/10/2020,13:58,Woodward Woodlot,woodlot,vertebrate,Corvus brachyrhynchos,JT
-2020,bioblitz,full,68,10/12/2020,14:11,Dempsey Park,woodlot,vertebrate,Corvus brachyrhynchos,JT
-2020,bioblitz,full,86,10/14/2020,7:11,Woodward Woodlot,woodlot,vertebrate,Corvus brachyrhynchos,JT
-2020,bioblitz,full,138,10/16/2020,13:41,Dempsey Park,woodlot,vertebrate,Corvus brachyrhynchos,JT
-2020,bioblitz,full,160,10/18/2020,7:10,Woodward Woodlot,woodlot,vertebrate,Corvus brachyrhynchos,JT
-2020,bioblitz,full,213,10/20/2020,13:49,Dempsey Park,woodlot,vertebrate,Corvus brachyrhynchos,JT
-2020,bioblitz,full,26,10/10/2020,20:39,Woodward Woodlot,woodlot,invertebrate,Culicidae ssp,JT
-2020,bioblitz,full,31,10/10/2020,21:15,Woodward Woodlot,woodlot,invertebrate,Culicidae ssp,JT
-2020,bioblitz,full,152,10/16/2020,21:14,Dempsey Park,woodlot,invertebrate,Culicidae ssp,JT
-2020,bioblitz,full,220,10/20/2020,20:42,Dempsey Park,woodlot,invertebrate,Culicidae ssp,JT
-2020,bioblitz,full,224,10/20/2020,21:19,Dempsey Park,woodlot,invertebrate,Culicidae ssp,JT
-2020,bioblitz,full,20,10/10/2020,14:07,Woodward Woodlot,woodlot,vertebrate,Cyanocitta cristata,JT
-2020,bioblitz,full,67,10/12/2020,14:06,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
-2020,bioblitz,full,137,10/16/2020,13:34,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
-2020,bioblitz,full,144,10/16/2020,13:21,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
-2020,bioblitz,full,211,10/20/2020,13:38,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
-2020,bioblitz,pilot,11,9/24/2020,15:49,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
-2020,bioblitz,full,16,10/10/2020,13:45,Woodward Woodlot,woodlot,invertebrate,Dendroctonus ponderosae,JT
+2020,bioblitz,full,1,10/11/2020,14:46,Frontyard,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,1,10/10/2020,6:33,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
 2020,bioblitz,pilot,1,9/25/2020,12:07,Backyard,tree,vertebrate,Dicaeum concolor,SN
+2020,bioblitz,pilot,1,9/25/2020,12:32,Backyard,grass,invertebrate,Heteropoda venatoria,SN
+2020,bioblitz,pilot,1,9/25/2020,12:05,Backyard,grass,vertebrate,Mus musculus,SN
+2020,bioblitz,pilot,1,9/25/2020,11:34,Backyard,bush,invertebrate,Orthetrum sabina,SN
+2020,bioblitz,pilot,1,9/25/2020,12:05,Backyard,bush,invertebrate,Orthetrum sabina,SN
+2020,bioblitz,pilot,1,9/27/2020,19:15,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,pilot,1,9/24/2020,15:11,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,pilot,1,9/25/2020,12:02,Backyard,tree,invertebrate,Triatoma rubrofasciata,SN
+2020,bioblitz,full,2,10/10/2020,6:39,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,2,10/11/2020,14:48,Frontyard,tree,vertebrate,Poecile atricapillus,MC
+2020,bioblitz,pilot,2,9/27/2020,19:21,Finch Hydro Corridor Recreational Trail,flying,vertebrate,Aves ssp,MC
+2020,bioblitz,pilot,2,9/25/2020,12:09,Backyard,tree,invertebrate,Nyctyornis athertoni,SN
+2020,bioblitz,pilot,2,9/25/2020,13:02,Backyard,tree,invertebrate,Nyctyornis athertoni,SN
+2020,bioblitz,pilot,2,9/24/2020,15:14,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,3,10/11/2020,14:51,Frontyard,ground,vertebrate,Tamias striatus,MC
+2020,bioblitz,full,3,10/10/2020,6:42,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,pilot,3,9/24/2020,15:17,Woodward Woodlot,woodlot,invertebrate,Camponotus pennsylvanicus,JT
 2020,bioblitz,pilot,3,9/27/2020,19:22,Finch Hydro Corridor Recreational Trail,flying,invertebrate,Diptera ssp,MC
-2020,bioblitz,pilot,12,9/28/2020,19:50,Black Creek Parkland,arm,invertebrate,Diptera ssp,MC
-2020,bioblitz,full,17,10/11/2020,15:23,Backyard,flying,invertebrate,Diptera ssp,MC
-2020,bioblitz,full,53,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
-2020,bioblitz,full,54,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
-2020,bioblitz,full,55,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
-2020,bioblitz,full,56,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
-2020,bioblitz,full,57,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
-2020,bioblitz,full,85,10/14/2020,14:41,Backyard,flying,invertebrate,Diptera ssp,MC
-2020,bioblitz,full,64,10/12/2020,13:47,Dempsey Park,woodlot,vertebrate,Dryocopus pileatus,JT
-2020,bioblitz,full,43,10/11/2020,13:57,Sprucedale Pond,water,invertebrate,Erythemis simplicicollis,JT
-2020,bioblitz,full,198,10/19/2020,14:26,Sprucedale Pond,water,vertebrate,Falco sparverius,JT
-2020,bioblitz,full,70,10/14/2020,14:26,Frontyard,ground,invertebrate,Formicidae ssp,MC
-2020,bioblitz,full,71,10/14/2020,14:26,Frontyard,ground,invertebrate,Formicidae ssp,MC
-2020,bioblitz,pilot,26,9/28/2020,9:03,Finch Hydro Corridor Recreational Trail,ground,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,full,98,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,full,99,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,full,100,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,full,101,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,full,102,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,full,103,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,full,135,10/18/2020,15:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
-2020,bioblitz,full,136,10/18/2020,15:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
 2020,bioblitz,pilot,3,9/25/2020,11:30,Backyard,bush,invertebrate,Geometridae ssp,SN
 2020,bioblitz,pilot,3,9/25/2020,12:02,Backyard,bush,invertebrate,Geometridae ssp,SN
 2020,bioblitz,pilot,3,9/25/2020,12:35,Backyard,bush,invertebrate,Geometridae ssp,SN
-2020,bioblitz,pilot,9,9/27/2020,19:35,Black Creek Parkland,ground,invertebrate,Grylloidea ssp,MC
-2020,bioblitz,full,7,10/11/2020,14:57,Frontyard,ground,invertebrate,Grylloidea ssp,MC
-2020,bioblitz,full,8,10/11/2020,14:57,Frontyard,ground,invertebrate,Grylloidea ssp,MC
-2020,bioblitz,full,26,10/12/2020,15:12,Frontyard,ground,invertebrate,Grylloidea ssp,MC
-2020,bioblitz,full,51,10/13/2020,16:06,Frontyard,ground,invertebrate,Grylloidea ssp,MC
-2020,bioblitz,full,69,10/14/2020,14:22,Frontyard,ground,invertebrate,Grylloidea ssp,MC
-2020,bioblitz,full,108,10/16/2020,15:27,Behind apartment building,ground,invertebrate,Grylloidea ssp,MC
-2020,bioblitz,full,124,10/17/2020,16:14,Behind apartment building,ground,invertebrate,Grylloidea ssp,MC
-2020,bioblitz,pilot,1,9/25/2020,12:32,Backyard,grass,invertebrate,Heteropoda venatoria,SN
-2020,bioblitz,full,19,10/11/2020,15:39,Frontyard,flying,vertebrate,Larinae ssp,MC
-2020,bioblitz,full,20,10/11/2020,15:40,Frontyard,flying,vertebrate,Larinae ssp,MC
-2020,bioblitz,full,24,10/12/2020,15:08,Frontyard,flying,vertebrate,Larinae ssp,MC
-2020,bioblitz,full,42,10/12/2020,15:46,Frontyard,flying,vertebrate,Larinae ssp,MC
-2020,bioblitz,full,46,10/13/2020,15:56,Frontyard,flying,vertebrate,Larinae ssp,MC
-2020,bioblitz,full,52,10/13/2020,16:07,Frontyard,flying,vertebrate,Larinae ssp,MC
-2020,bioblitz,full,65,10/13/2020,16:45,Frontyard,flying,vertebrate,Larinae ssp,MC
-2020,bioblitz,full,90,10/14/2020,14:57,Frontyard,flying,vertebrate,Larinae ssp,MC
-2020,bioblitz,full,92,10/14/2020,15:05,Frontyard,flying,vertebrate,Larinae ssp,MC
-2020,bioblitz,full,44,10/11/2020,14:09,Sprucedale Pond,water,vertebrate,Larus delawarensis,JT
-2020,bioblitz,pilot,18,9/28/2020,2:03,Finch Hydro Corridor Recreational Trail,flying,invertebrate,Lepidoptera ssp,MC
-2020,bioblitz,pilot,19,9/28/2020,2:07,Finch Hydro Corridor Recreational Trail,flying,invertebrate,Lepidoptera ssp,MC
-2020,bioblitz,pilot,23,9/28/2020,2:23,Black Creek Parkland,branch,invertebrate,Lepidoptera ssp,MC
-2020,bioblitz,full,6,10/11/2020,14:56,Frontyard,flying,invertebrate,Lepidoptera ssp,MC
-2020,bioblitz,full,33,10/12/2020,15:21,Backyard,flying,invertebrate,Lepidoptera ssp,MC
-2020,bioblitz,full,86,10/14/2020,14:43,Backyard,flying,invertebrate,Lepidoptera ssp,MC
-2020,bioblitz,full,36,10/11/2020,7:04,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,49,10/11/2020,20:43,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,76,10/12/2020,20:57,Dempsey Park,woodlot,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,126,10/15/2020,20:41,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,128,10/15/2020,21:19,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,148,10/16/2020,20:44,Dempsey Park,woodlot,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,188,10/19/2020,6:49,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,201,10/19/2020,20:44,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,203,10/19/2020,21:22,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,222,10/20/2020,21:03,Dempsey Park,woodlot,vertebrate,Lithobates sylvaticus,JT
-2020,bioblitz,full,23,10/10/2020,14:21,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,48,10/11/2020,20:37,Sprucedale Pond,water,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,51,10/11/2020,21:15,Sprucedale Pond,water,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,78,10/12/2020,21:24,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,107,10/14/2020,20:46,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,109,10/14/2020,21:04,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,130,10/16/2020,6:38,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,149,10/16/2020,20:51,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,153,10/16/2020,21:26,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,178,10/18/2020,20:37,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,182,10/18/2020,21:02,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,223,10/20/2020,21:11,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
-2020,bioblitz,full,22,10/10/2020,14:19,Woodward Woodlot,woodlot,invertebrate,Malacosoma americanum,JT
-2020,bioblitz,full,71,10/12/2020,14:28,Dempsey Park,woodlot,invertebrate,Malacosoma americanum,JT
-2020,bioblitz,full,100,10/14/2020,14:05,Woodward Woodlot,woodlot,invertebrate,Malacosoma americanum,JT
-2020,bioblitz,full,140,10/16/2020,13:52,Dempsey Park,woodlot,invertebrate,Malacosoma americanum,JT
-2020,bioblitz,full,174,10/18/2020,14:05,Woodward Woodlot,woodlot,invertebrate,Malacosoma americanum,JT
-2020,bioblitz,full,217,10/20/2020,13:20,Dempsey Park,woodlot,invertebrate,Malacosoma americanum,JT
-2020,bioblitz,pilot,207,9/25/2020,15:00,Deer Park,backyard,invertebrate,Melanophora roralis,AT
-2020,bioblitz,pilot,8,9/27/2020,19:33,Black Creek Parkland,flying,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,10,10/11/2020,15:07,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,11,10/11/2020,15:07,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,12,10/11/2020,15:07,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,15,10/11/2020,15:21,Backyard,tree,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,16,10/11/2020,15:21,Backyard,tree,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,28,10/12/2020,15:18,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,29,10/12/2020,15:18,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,30,10/12/2020,15:18,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,31,10/12/2020,15:18,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,38,10/12/2020,15:36,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,39,10/12/2020,15:36,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,50,10/13/2020,16:03,Frontyard,flying,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,64,10/13/2020,16:43,Frontyard,tree,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,72,10/14/2020,14:28,Backyard,grass,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,73,10/14/2020,14:28,Backyard,grass,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,78,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,79,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,80,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,81,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,82,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,95,10/14/2020,15:10,Frontyard,tree,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,109,10/16/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,110,10/16/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,111,10/16/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,112,10/16/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,118,10/17/2020,15:53,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,119,10/17/2020,15:53,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,120,10/17/2020,15:53,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,129,10/17/2020,16:47,Behind apartment building,ground,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,130,10/17/2020,16:47,Behind apartment building,ground,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,131,10/17/2020,16:47,Behind apartment building,ground,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,132,10/17/2020,16:47,Behind apartment building,ground,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,141,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,142,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,143,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,144,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,full,145,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
-2020,bioblitz,pilot,14,9/28/2020,1:54,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Mephitis mephitis,MC
-2020,bioblitz,pilot,24,9/28/2020,2:27,Black Creek Parkland,ground,vertebrate,Mephitis mephitis,MC
-2020,bioblitz,full,74,10/12/2020,20:49,Dempsey Park,woodlot,vertebrate,Mephitis mephitis,JT
-2020,bioblitz,full,112,10/14/2020,21:27,Woodward Woodlot,woodlot,vertebrate,Mephitis mephitis,JT
-2020,bioblitz,full,147,10/16/2020,20:39,Dempsey Park,woodlot,vertebrate,Mephitis mephitis,JT
-2020,bioblitz,full,185,10/18/2020,21:26,Woodward Woodlot,woodlot,vertebrate,Mephitis mephitis,JT
-2020,bioblitz,full,225,10/20/2020,21:27,Dempsey Park,woodlot,vertebrate,Mephitis mephitis,JT
-2020,bioblitz,pilot,1,9/25/2020,12:05,Backyard,grass,vertebrate,Mus musculus,SN
-2020,bioblitz,pilot,5,9/27/2020,19:30,Finch Hydro Corridor Recreational Trail,flying,vertebrate,Myotis lucifugus,MC
-2020,bioblitz,pilot,6,9/27/2020,19:30,Finch Hydro Corridor Recreational Trail,flying,vertebrate,Myotis lucifugus,MC
-2020,bioblitz,pilot,7,9/27/2020,19:30,Finch Hydro Corridor Recreational Trail,flying,vertebrate,Myotis lucifugus,MC
-2020,bioblitz,pilot,2,9/25/2020,12:09,Backyard,tree,invertebrate,Nyctyornis athertoni,SN
-2020,bioblitz,pilot,2,9/25/2020,13:02,Backyard,tree,invertebrate,Nyctyornis athertoni,SN
-2020,bioblitz,full,18,10/11/2020,15:32,Backyard,ground,vertebrate,Odocoileus virginianus,MC
-2020,bioblitz,full,89,10/14/2020,7:25,Woodward Woodlot,woodlot,invertebrate,Oniscidea ssp,JT
-2020,bioblitz,full,163,10/18/2020,7:25,Woodward Woodlot,woodlot,invertebrate,Oniscidea ssp,JT
-2020,bioblitz,pilot,1,9/25/2020,11:34,Backyard,bush,invertebrate,Orthetrum sabina,SN
-2020,bioblitz,pilot,1,9/25/2020,12:05,Backyard,bush,invertebrate,Orthetrum sabina,SN
-2020,bioblitz,full,2,10/10/2020,6:39,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,10,10/10/2020,7:24,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,52,10/12/2020,6:34,Dempsey Park,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,80,10/14/2020,6:35,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,97,10/14/2020,13:55,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,103,10/14/2020,14:18,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,116,10/15/2020,7:15,Sprucedale Pond,water,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,134,10/16/2020,7:12,Dempsey Park,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,155,10/18/2020,6:39,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,171,10/18/2020,13:54,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,176,10/18/2020,14:18,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,190,10/19/2020,7:27,Sprucedale Pond,water,vertebrate,Passer domesticus,JT
-2020,bioblitz,full,208,10/20/2020,7:12,Dempsey Park,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,pilot,9,9/24/2020,15:42,Dempsey Park,woodlot,vertebrate,Passer domesticus,JT
-2020,bioblitz,pilot,4,9/27/2020,19:25,Finch Hydro Corridor Recreational Trail,grass,invertebrate,Pieris rapae,MC
-2020,bioblitz,full,15,10/10/2020,13:43,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,41,10/11/2020,13:42,Sprucedale Pond,water,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,65,10/12/2020,13:53,Dempsey Park,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,69,10/12/2020,14:15,Dempsey Park,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,84,10/14/2020,6:57,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,96,10/14/2020,13:51,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,104,10/14/2020,14:26,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,121,10/15/2020,13:51,Sprucedale Pond,water,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,136,10/16/2020,13:30,Dempsey Park,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,158,10/18/2020,6:57,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,170,10/18/2020,13:50,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,177,10/18/2020,14:23,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,195,10/19/2020,13:53,Sprucedale Pond,water,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,full,218,10/20/2020,13:29,Dempsey Park,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,pilot,2,9/24/2020,15:14,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
-2020,bioblitz,pilot,104,9/23/2020,15:15,Deer Park,backyard,invertebrate,Pisaurina mira,AT
-2020,bioblitz,pilot,205,9/25/2020,15:00,Deer Park,backyard,invertebrate,Pisaurina mira,AT
-2020,bioblitz,full,2,10/11/2020,14:48,Frontyard,tree,vertebrate,Poecile atricapillus,MC
-2020,bioblitz,full,43,10/12/2020,15:50,Frontyard,tree,vertebrate,Poecile atricapillus,MC
-2020,bioblitz,full,48,10/13/2020,16:01,Frontyard,tree,vertebrate,Poecile atricapillus,MC
-2020,bioblitz,full,49,10/13/2020,16:01,Frontyard,flying,vertebrate,Poecile atricapillus,MC
-2020,bioblitz,full,89,10/14/2020,14:51,Frontyard,tree,vertebrate,Poecile atricapillus,MC
 2020,bioblitz,pilot,3,9/25/2020,12:35,Backyard,bush,invertebrate,Polistes apachus,SN
 2020,bioblitz,pilot,3,9/25/2020,12:39,Backyard,bush,invertebrate,Polistes apachus,SN
 2020,bioblitz,pilot,3,9/25/2020,12:47,Backyard,bush,invertebrate,Polistes apachus,SN
-2020,bioblitz,pilot,17,9/28/2020,2:00,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Procyon lotor,MC
-2020,bioblitz,pilot,25,9/28/2020,2:37,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Procyon lotor,MC
-2020,bioblitz,full,5,10/10/2020,7:00,Woodward Woodlot,woodlot,vertebrate,Procyon lotor,JT
-2020,bioblitz,full,29,10/10/2020,20:55,Woodward Woodlot,woodlot,vertebrate,Procyon lotor,JT
-2020,bioblitz,full,58,10/12/2020,7:11,Dempsey Park,woodlot,vertebrate,Procyon lotor,JT
-2020,bioblitz,full,73,10/12/2020,20:43,Dempsey Park,woodlot,vertebrate,Procyon lotor,JT
-2020,bioblitz,full,150,10/16/2020,21:01,Dempsey Park,woodlot,vertebrate,Procyon lotor,JT
-2020,bioblitz,full,221,10/20/2020,20:50,Dempsey Park,woodlot,vertebrate,Procyon lotor,JT
-2020,bioblitz,pilot,1,9/27/2020,19:15,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Sciurus carolinensis,MC
-2020,bioblitz,pilot,28,9/28/2020,9:07,Finch Hydro Corridor Recreational Trail,tree,vertebrate,Sciurus carolinensis,MC
-2020,bioblitz,pilot,32,9/28/2020,9:26,Black Creek Parkland,ground,vertebrate,Sciurus carolinensis,MC
-2020,bioblitz,full,1,10/11/2020,14:46,Frontyard,tree,vertebrate,Sciurus carolinensis,MC
 2020,bioblitz,full,4,10/11/2020,14:53,Frontyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,4,10/10/2020,6:54,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,pilot,4,9/27/2020,19:25,Finch Hydro Corridor Recreational Trail,grass,invertebrate,Pieris rapae,MC
+2020,bioblitz,pilot,4,9/24/2020,15:21,Woodward Woodlot,woodlot,invertebrate,Tipula oleracea,JT
+2020,bioblitz,full,5,10/10/2020,7:00,Woodward Woodlot,woodlot,vertebrate,Procyon lotor,JT
 2020,bioblitz,full,5,10/11/2020,14:53,Frontyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,pilot,5,9/27/2020,19:30,Finch Hydro Corridor Recreational Trail,flying,vertebrate,Myotis lucifugus,MC
+2020,bioblitz,pilot,5,9/24/2020,15:25,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,6,10/10/2020,7:02,Woodward Woodlot,woodlot,vertebrate,Buteo jamaicensis,JT
+2020,bioblitz,full,6,10/11/2020,14:56,Frontyard,flying,invertebrate,Lepidoptera ssp,MC
+2020,bioblitz,pilot,6,9/24/2020,15:31,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,pilot,6,9/27/2020,19:30,Finch Hydro Corridor Recreational Trail,flying,vertebrate,Myotis lucifugus,MC
+2020,bioblitz,full,7,10/11/2020,14:57,Frontyard,ground,invertebrate,Grylloidea ssp,MC
+2020,bioblitz,full,7,10/10/2020,7:07,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,pilot,7,9/24/2020,15:35,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
+2020,bioblitz,pilot,7,9/27/2020,19:30,Finch Hydro Corridor Recreational Trail,flying,vertebrate,Myotis lucifugus,MC
+2020,bioblitz,full,8,10/10/2020,7:13,Woodward Woodlot,woodlot,vertebrate,Corvus brachyrhynchos,JT
+2020,bioblitz,full,8,10/11/2020,14:57,Frontyard,ground,invertebrate,Grylloidea ssp,MC
+2020,bioblitz,pilot,8,9/24/2020,15:36,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
+2020,bioblitz,pilot,8,9/27/2020,19:33,Black Creek Parkland,flying,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,9,10/10/2020,7:18,Woodward Woodlot,woodlot,invertebrate,Araneae ssp,JT
 2020,bioblitz,full,9,10/11/2020,15:03,Backyard,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,pilot,9,9/27/2020,19:35,Black Creek Parkland,ground,invertebrate,Grylloidea ssp,MC
+2020,bioblitz,pilot,9,9/24/2020,15:42,Dempsey Park,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,10,10/11/2020,15:07,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,10,10/10/2020,7:24,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,pilot,10,9/27/2020,19:39,Black Creek Parkland,branch,vertebrate,Turdus migratorius,MC
+2020,bioblitz,pilot,10,9/24/2020,15:47,Dempsey Park,woodlot,invertebrate,Vespula alascensis,JT
+2020,bioblitz,full,11,10/11/2020,15:07,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,11,10/10/2020,7:31,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,pilot,11,9/27/2020,19:45,Black Creek Parkland,ground,invertebrate,Coleoptera ssp,MC
+2020,bioblitz,pilot,11,9/24/2020,15:49,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
+2020,bioblitz,full,12,10/11/2020,15:07,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,12,10/10/2020,13:31,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,pilot,12,9/28/2020,19:50,Black Creek Parkland,arm,invertebrate,Diptera ssp,MC
+2020,bioblitz,pilot,12,9/24/2020,15:51,Dempsey Park,woodlot,vertebrate,Sylvilagus floridanus,JT
+2020,bioblitz,full,13,10/11/2020,15:14,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,13,10/10/2020,13:36,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,pilot,13,9/28/2020,1:50,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Sylvilagus floridanus,MC
 2020,bioblitz,full,14,10/11/2020,15:16,Backyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,14,10/10/2020,13:38,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,pilot,14,9/28/2020,1:54,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Mephitis mephitis,MC
+2020,bioblitz,full,15,10/11/2020,15:21,Backyard,tree,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,15,10/10/2020,13:43,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,pilot,15,9/28/2020,1:57,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Sylvilagus floridanus,MC
+2020,bioblitz,full,16,10/10/2020,13:45,Woodward Woodlot,woodlot,invertebrate,Dendroctonus ponderosae,JT
+2020,bioblitz,full,16,10/11/2020,15:21,Backyard,tree,vertebrate,Melospiza melodia,MC
+2020,bioblitz,pilot,16,9/28/2020,1:57,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Sylvilagus floridanus,MC
+2020,bioblitz,full,17,10/11/2020,15:23,Backyard,flying,invertebrate,Diptera ssp,MC
+2020,bioblitz,full,17,10/10/2020,13:49,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,pilot,17,9/28/2020,2:00,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Procyon lotor,MC
+2020,bioblitz,full,18,10/11/2020,15:32,Backyard,ground,vertebrate,Odocoileus virginianus,MC
+2020,bioblitz,full,18,10/10/2020,13:52,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,pilot,18,9/28/2020,2:03,Finch Hydro Corridor Recreational Trail,flying,invertebrate,Lepidoptera ssp,MC
+2020,bioblitz,full,19,10/10/2020,13:58,Woodward Woodlot,woodlot,vertebrate,Corvus brachyrhynchos,JT
+2020,bioblitz,full,19,10/11/2020,15:39,Frontyard,flying,vertebrate,Larinae ssp,MC
+2020,bioblitz,pilot,19,9/28/2020,2:07,Finch Hydro Corridor Recreational Trail,flying,invertebrate,Lepidoptera ssp,MC
+2020,bioblitz,full,20,10/10/2020,14:07,Woodward Woodlot,woodlot,vertebrate,Cyanocitta cristata,JT
+2020,bioblitz,full,20,10/11/2020,15:40,Frontyard,flying,vertebrate,Larinae ssp,MC
+2020,bioblitz,pilot,20,9/28/2020,2:13,Black Creek Parkland,ground,vertebrate,Sylvilagus floridanus,MC
+2020,bioblitz,full,21,10/11/2020,15:43,Frontyard,power line,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,21,10/10/2020,14:16,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,pilot,21,9/28/2020,2:15,Black Creek Parkland,ground,vertebrate,Sylvilagus floridanus,MC
+2020,bioblitz,full,22,10/10/2020,14:19,Woodward Woodlot,woodlot,invertebrate,Malacosoma americanum,JT
 2020,bioblitz,full,22,10/12/2020,15:05,Frontyard,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,pilot,22,9/28/2020,2:21,Black Creek Parkland,ground,vertebrate,Sylvilagus floridanus,MC
+2020,bioblitz,full,23,10/10/2020,14:21,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
 2020,bioblitz,full,23,10/12/2020,15:06,Frontyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,pilot,23,9/28/2020,2:23,Black Creek Parkland,branch,invertebrate,Lepidoptera ssp,MC
+2020,bioblitz,full,24,10/12/2020,15:08,Frontyard,flying,vertebrate,Larinae ssp,MC
+2020,bioblitz,full,24,10/10/2020,14:27,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,pilot,24,9/28/2020,2:27,Black Creek Parkland,ground,vertebrate,Mephitis mephitis,MC
+2020,bioblitz,full,25,10/12/2020,15:11,Frontyard,power line,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,25,10/10/2020,20:34,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,pilot,25,9/28/2020,2:37,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Procyon lotor,MC
+2020,bioblitz,full,26,10/10/2020,20:39,Woodward Woodlot,woodlot,invertebrate,Culicidae ssp,JT
+2020,bioblitz,full,26,10/12/2020,15:12,Frontyard,ground,invertebrate,Grylloidea ssp,MC
+2020,bioblitz,pilot,26,9/28/2020,9:03,Finch Hydro Corridor Recreational Trail,ground,invertebrate,Gastropoda ssp,MC
 2020,bioblitz,full,27,10/12/2020,15:15,Frontyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,27,10/10/2020,20:43,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,pilot,27,9/28/2020,9:06,Finch Hydro Corridor Recreational Trail,power line,vertebrate,Columba livia,MC
+2020,bioblitz,full,28,10/12/2020,15:18,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,28,10/10/2020,20:47,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,pilot,28,9/28/2020,9:07,Finch Hydro Corridor Recreational Trail,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,29,10/12/2020,15:18,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,29,10/10/2020,20:55,Woodward Woodlot,woodlot,vertebrate,Procyon lotor,JT
+2020,bioblitz,pilot,29,9/28/2020,9:11,Black Creek Parkland,water,vertebrate,Anatidae ssp,MC
+2020,bioblitz,full,30,10/12/2020,15:18,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,30,10/10/2020,21:04,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,pilot,30,9/28/2020,9:11,Black Creek Parkland,water,vertebrate,Anatidae ssp,MC
+2020,bioblitz,full,31,10/10/2020,21:15,Woodward Woodlot,woodlot,invertebrate,Culicidae ssp,JT
+2020,bioblitz,full,31,10/12/2020,15:18,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,pilot,31,9/28/2020,9:17,Black Creek Parkland,branch,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,full,32,10/12/2020,15:19,Backyard,flying,invertebrate,Anthophila ssp,MC
+2020,bioblitz,full,32,10/10/2020,21:21,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,pilot,32,9/28/2020,9:26,Black Creek Parkland,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,33,10/11/2020,6:31,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,full,33,10/12/2020,15:21,Backyard,flying,invertebrate,Lepidoptera ssp,MC
+2020,bioblitz,full,34,10/11/2020,6:31,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
 2020,bioblitz,full,34,10/12/2020,15:25,Backyard,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,35,10/11/2020,6:49,Sprucedale Pond,water,Cepaea hortensis,Cepaea nemoralis,JT
+2020,bioblitz,full,35,10/12/2020,15:29,Backyard,tree,vertebrate,Spinus tristis,MC
+2020,bioblitz,full,36,10/11/2020,7:04,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
 2020,bioblitz,full,36,10/12/2020,15:31,Backyard,ground,vertebrate,Sciurus carolinensis,MC
 2020,bioblitz,full,37,10/12/2020,15:31,Backyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,37,10/11/2020,7:18,Sprucedale Pond,water,vertebrate,Thamnophis sirtalis,JT
+2020,bioblitz,full,38,10/11/2020,13:33,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
+2020,bioblitz,full,38,10/12/2020,15:36,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,39,10/11/2020,13:33,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,full,39,10/12/2020,15:36,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,40,10/11/2020,13:34,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
+2020,bioblitz,full,40,10/12/2020,15:40,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,41,10/12/2020,15:42,Backyard,tree,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,41,10/11/2020,13:42,Sprucedale Pond,water,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,42,10/12/2020,15:46,Frontyard,flying,vertebrate,Larinae ssp,MC
+2020,bioblitz,full,42,10/11/2020,13:50,Sprucedale Pond,water,invertebrate,Sympetrum ssp,JT
+2020,bioblitz,full,43,10/11/2020,13:57,Sprucedale Pond,water,invertebrate,Erythemis simplicicollis,JT
+2020,bioblitz,full,43,10/12/2020,15:50,Frontyard,tree,vertebrate,Poecile atricapillus,MC
+2020,bioblitz,full,44,10/11/2020,14:09,Sprucedale Pond,water,vertebrate,Larus delawarensis,JT
 2020,bioblitz,full,44,10/12/2020,15:52,Frontyard,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,45,10/11/2020,14:26,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
 2020,bioblitz,full,45,10/12/2020,15:55,Frontyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,46,10/11/2020,20:30,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,full,46,10/13/2020,15:56,Frontyard,flying,vertebrate,Larinae ssp,MC
+2020,bioblitz,full,47,10/11/2020,20:31,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
+2020,bioblitz,full,47,10/13/2020,15:58,Frontyard,ground,invertebrate,Araneae ssp,MC
+2020,bioblitz,full,48,10/11/2020,20:37,Sprucedale Pond,water,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,48,10/13/2020,16:01,Frontyard,tree,vertebrate,Poecile atricapillus,MC
+2020,bioblitz,full,49,10/11/2020,20:43,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
+2020,bioblitz,full,49,10/13/2020,16:01,Frontyard,flying,vertebrate,Poecile atricapillus,MC
+2020,bioblitz,full,50,10/11/2020,20:58,Sprucedale Pond,water,vertebrate,Chrysemys picta,JT
+2020,bioblitz,full,50,10/13/2020,16:03,Frontyard,flying,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,51,10/13/2020,16:06,Frontyard,ground,invertebrate,Grylloidea ssp,MC
+2020,bioblitz,full,51,10/11/2020,21:15,Sprucedale Pond,water,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,52,10/13/2020,16:07,Frontyard,flying,vertebrate,Larinae ssp,MC
+2020,bioblitz,full,52,10/12/2020,6:34,Dempsey Park,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,53,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
+2020,bioblitz,full,53,10/12/2020,6:39,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,54,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
+2020,bioblitz,full,54,10/12/2020,6:41,Dempsey Park,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,55,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
+2020,bioblitz,full,55,10/12/2020,6:46,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,56,10/12/2020,6:52,Dempsey Park,woodlot,vertebrate,Cardinalis cardinalis,JT
+2020,bioblitz,full,56,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
+2020,bioblitz,full,57,10/13/2020,16:10,Backyard,flying,invertebrate,Diptera ssp,MC
+2020,bioblitz,full,57,10/12/2020,7:00,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,58,10/13/2020,16:15,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,58,10/12/2020,7:11,Dempsey Park,woodlot,vertebrate,Procyon lotor,JT
 2020,bioblitz,full,59,10/13/2020,16:18,Backyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,59,10/12/2020,7:27,Dempsey Park,woodlot,invertebrate,Tipulidae ssp,JT
 2020,bioblitz,full,60,10/13/2020,16:22,Backyard,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,60,10/12/2020,13:32,Dempsey Park,woodlot,invertebrate,Vespula alascensis,JT
+2020,bioblitz,full,61,10/13/2020,16:28,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,61,10/12/2020,13:35,Dempsey Park,woodlot,vertebrate,Spinus tristis,JT
+2020,bioblitz,full,62,10/13/2020,16:37,Backyard,tree,vertebrate,Spinus tristis,MC
+2020,bioblitz,full,62,10/12/2020,13:38,Dempsey Park,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,63,10/13/2020,16:41,Backyard,tree,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,63,10/12/2020,13:44,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,64,10/12/2020,13:47,Dempsey Park,woodlot,vertebrate,Dryocopus pileatus,JT
+2020,bioblitz,full,64,10/13/2020,16:43,Frontyard,tree,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,65,10/13/2020,16:45,Frontyard,flying,vertebrate,Larinae ssp,MC
+2020,bioblitz,full,65,10/12/2020,13:53,Dempsey Park,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,66,10/13/2020,16:52,Frontyard,flying,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,66,10/12/2020,13:59,Dempsey Park,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,67,10/13/2020,16:52,Frontyard,power line,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,67,10/12/2020,14:06,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
+2020,bioblitz,full,68,10/12/2020,14:11,Dempsey Park,woodlot,vertebrate,Corvus brachyrhynchos,JT
 2020,bioblitz,full,68,10/13/2020,17:00,Frontyard,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,69,10/14/2020,14:22,Frontyard,ground,invertebrate,Grylloidea ssp,MC
+2020,bioblitz,full,69,10/12/2020,14:15,Dempsey Park,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,70,10/14/2020,14:26,Frontyard,ground,invertebrate,Formicidae ssp,MC
+2020,bioblitz,full,70,10/12/2020,14:23,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,full,71,10/14/2020,14:26,Frontyard,ground,invertebrate,Formicidae ssp,MC
+2020,bioblitz,full,71,10/12/2020,14:28,Dempsey Park,woodlot,invertebrate,Malacosoma americanum,JT
+2020,bioblitz,full,72,10/14/2020,14:28,Backyard,grass,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,72,10/12/2020,20:36,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,73,10/14/2020,14:28,Backyard,grass,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,73,10/12/2020,20:43,Dempsey Park,woodlot,vertebrate,Procyon lotor,JT
+2020,bioblitz,full,74,10/14/2020,14:29,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,74,10/12/2020,20:49,Dempsey Park,woodlot,vertebrate,Mephitis mephitis,JT
+2020,bioblitz,full,75,10/14/2020,14:29,Backyard,ground,invertebrate,Anthophila ssp,MC
+2020,bioblitz,full,75,10/12/2020,20:51,Dempsey Park,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,76,10/14/2020,14:32,Backyard,flying,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,76,10/12/2020,20:57,Dempsey Park,woodlot,vertebrate,Lithobates sylvaticus,JT
 2020,bioblitz,full,77,10/14/2020,14:34,Backyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,77,10/12/2020,21:11,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,78,10/12/2020,21:24,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,78,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,79,10/17/2020,6:32,Woodward Woodlot,woodlot,invertebrate,Araneae ssp,JT
+2020,bioblitz,full,79,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,80,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,80,10/14/2020,6:35,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,81,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,81,10/14/2020,6:39,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,82,10/14/2020,14:37,Backyard,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,82,10/14/2020,6:45,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,83,10/14/2020,6:48,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,83,10/14/2020,14:39,Backyard,tree,vertebrate,Turdus migratorius,MC
+2020,bioblitz,full,84,10/14/2020,6:57,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,84,10/14/2020,14:39,Backyard,tree,vertebrate,Turdus migratorius,MC
+2020,bioblitz,full,85,10/14/2020,14:41,Backyard,flying,invertebrate,Diptera ssp,MC
+2020,bioblitz,full,85,10/14/2020,7:06,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,full,86,10/14/2020,7:11,Woodward Woodlot,woodlot,vertebrate,Corvus brachyrhynchos,JT
+2020,bioblitz,full,86,10/14/2020,14:43,Backyard,flying,invertebrate,Lepidoptera ssp,MC
 2020,bioblitz,full,87,10/14/2020,14:47,Backyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,87,10/14/2020,7:17,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
 2020,bioblitz,full,88,10/14/2020,14:47,Backyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,88,10/14/2020,7:22,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,89,10/14/2020,7:25,Woodward Woodlot,woodlot,invertebrate,Oniscidea ssp,JT
+2020,bioblitz,full,89,10/14/2020,14:51,Frontyard,tree,vertebrate,Poecile atricapillus,MC
+2020,bioblitz,full,90,10/14/2020,7:03,Woodward Woodlot,woodlot,vertebrate,Accipiter cooperii,JT
+2020,bioblitz,full,90,10/14/2020,14:57,Frontyard,flying,vertebrate,Larinae ssp,MC
+2020,bioblitz,full,91,10/14/2020,15:00,Frontyard,tree,vertebrate,Tamias striatus,MC
+2020,bioblitz,full,91,10/14/2020,13:33,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,92,10/14/2020,15:05,Frontyard,flying,vertebrate,Larinae ssp,MC
+2020,bioblitz,full,92,10/14/2020,13:37,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,93,10/14/2020,13:38,Woodward Woodlot,woodlot,vertebrate,Colaptes auratus,JT
+2020,bioblitz,full,93,10/14/2020,15:09,Frontyard,flying,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,94,10/14/2020,15:09,Frontyard,flying,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,94,10/14/2020,13:42,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,95,10/14/2020,15:10,Frontyard,tree,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,95,10/14/2020,13:46,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,full,96,10/14/2020,13:51,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
 2020,bioblitz,full,96,10/14/2020,15:15,Frontyard,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,97,10/15/2020,14:03,Behind apartment building,tree,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,97,10/14/2020,13:55,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,98,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,full,98,10/14/2020,13:59,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,99,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,full,99,10/14/2020,14:01,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,100,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,full,100,10/14/2020,14:05,Woodward Woodlot,woodlot,invertebrate,Malacosoma americanum,JT
+2020,bioblitz,full,101,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,full,101,10/14/2020,14:13,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,pilot,101,9/23/2020,15:15,Deer Park,backyard,vertebrate,Sciurus carolinensis,AT
+2020,bioblitz,full,102,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,full,102,10/14/2020,14:14,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,pilot,102,9/23/2020,15:15,Deer Park,backyard,invertebrate,Camponotus pennsylvanicus,AT
+2020,bioblitz,full,103,10/15/2020,14:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,full,103,10/14/2020,14:18,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,pilot,103,9/23/2020,15:15,Deer Park,backyard,invertebrate,Tetramorium immigrans,AT
+2020,bioblitz,full,104,10/14/2020,14:26,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
 2020,bioblitz,full,104,10/15/2020,14:31,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,pilot,104,9/23/2020,15:15,Deer Park,backyard,invertebrate,Pisaurina mira,AT
+2020,bioblitz,full,105,10/16/2020,15:23,Behind apartment building,balcony,vertebrate,Columba livia,MC
+2020,bioblitz,full,105,10/14/2020,20:35,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,pilot,105,9/23/2020,15:15,Deer Park,backyard,invertebrate,Bryobia praetiosa,AT
+2020,bioblitz,full,106,10/16/2020,15:23,Behind apartment building,balcony,vertebrate,Columba livia,MC
+2020,bioblitz,full,106,10/14/2020,20:41,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,107,10/14/2020,20:46,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
 2020,bioblitz,full,107,10/16/2020,15:26,Behind apartment building,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,108,10/14/2020,20:55,Woodward Woodlot,woodlot,vertebrate,Chordeiles minor,JT
+2020,bioblitz,full,108,10/16/2020,15:27,Behind apartment building,ground,invertebrate,Grylloidea ssp,MC
+2020,bioblitz,full,109,10/14/2020,21:04,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,109,10/16/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,110,10/16/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,110,10/14/2020,21:11,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,111,10/16/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,111,10/14/2020,21:12,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,112,10/16/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,112,10/14/2020,21:27,Woodward Woodlot,woodlot,vertebrate,Mephitis mephitis,JT
+2020,bioblitz,full,113,10/16/2020,15:35,Behind apartment building,flying,vertebrate,Agelaius phoeniceus,MC
+2020,bioblitz,full,113,10/15/2020,6:31,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,full,114,10/15/2020,6:32,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
 2020,bioblitz,full,114,10/16/2020,15:42,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
 2020,bioblitz,full,115,10/16/2020,15:45,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,115,10/15/2020,6:58,Sprucedale Pond,water,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,116,10/16/2020,15:55,Behind apartment building,flying,vertebrate,Columba livia,MC
+2020,bioblitz,full,116,10/15/2020,7:15,Sprucedale Pond,water,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,117,10/15/2020,13:30,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
 2020,bioblitz,full,117,10/17/2020,15:50,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,118,10/15/2020,13:30,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,full,118,10/17/2020,15:53,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,119,10/17/2020,15:53,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,119,10/15/2020,13:38,Sprucedale Pond,water,invertebrate,Sympetrum ssp,JT
+2020,bioblitz,full,120,10/15/2020,13:42,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
+2020,bioblitz,full,120,10/17/2020,15:53,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,121,10/15/2020,13:51,Sprucedale Pond,water,invertebrate,Pieris virginiensis,JT
 2020,bioblitz,full,121,10/17/2020,16:00,Behind apartment building,tree,vertebrate,Sciurus carolinensis,MC
 2020,bioblitz,full,122,10/17/2020,16:05,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
-2020,bioblitz,full,125,10/17/2020,16:21,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
-2020,bioblitz,full,133,10/18/2020,15:00,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
-2020,bioblitz,full,134,10/18/2020,15:07,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
-2020,bioblitz,full,137,10/18/2020,15:15,Behind apartment building,tree,vertebrate,Sciurus carolinensis,MC
-2020,bioblitz,full,146,10/18/2020,15:40,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
-2020,bioblitz,pilot,101,9/23/2020,15:15,Deer Park,backyard,vertebrate,Sciurus carolinensis,AT
-2020,bioblitz,pilot,201,9/25/2020,15:00,Deer Park,backyard,vertebrate,Sciurus carolinensis,AT
-2020,bioblitz,pilot,301,9/26/2020,13:30,Crothers Woods,forest,vertebrate,Sciurus carolinensis,AT
-2020,bioblitz,full,1,10/10/2020,6:33,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,7,10/10/2020,7:07,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,11,10/10/2020,7:31,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,13,10/10/2020,13:36,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,18,10/10/2020,13:52,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,21,10/10/2020,14:16,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,27,10/10/2020,20:43,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,53,10/12/2020,6:39,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,55,10/12/2020,6:46,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,63,10/12/2020,13:44,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,81,10/14/2020,6:39,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,83,10/14/2020,6:48,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,92,10/14/2020,13:37,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,98,10/14/2020,13:59,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,102,10/14/2020,14:14,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,132,10/16/2020,6:51,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,135,10/16/2020,7:24,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,139,10/16/2020,13:45,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,142,10/16/2020,13:09,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,157,10/18/2020,6:48,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,166,10/18/2020,13:37,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,172,10/18/2020,13:59,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,205,10/20/2020,6:46,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,209,10/20/2020,7:27,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,212,10/20/2020,13:43,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,216,10/20/2020,13:11,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,pilot,1,9/24/2020,15:11,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
-2020,bioblitz,full,24,10/10/2020,14:27,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,70,10/12/2020,14:23,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,85,10/14/2020,7:06,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,95,10/14/2020,13:46,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,129,10/16/2020,6:32,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,145,10/16/2020,13:28,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,159,10/18/2020,7:06,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,169,10/18/2020,13:46,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,204,10/20/2020,6:34,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,210,10/20/2020,13:35,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
-2020,bioblitz,full,35,10/12/2020,15:29,Backyard,tree,vertebrate,Spinus tristis,MC
-2020,bioblitz,full,62,10/13/2020,16:37,Backyard,tree,vertebrate,Spinus tristis,MC
-2020,bioblitz,full,61,10/12/2020,13:35,Dempsey Park,woodlot,vertebrate,Spinus tristis,JT
-2020,bioblitz,full,143,10/16/2020,13:17,Dempsey Park,woodlot,vertebrate,Spinus tristis,JT
-2020,bioblitz,full,214,10/20/2020,13:52,Dempsey Park,woodlot,vertebrate,Spinus tristis,JT
-2020,bioblitz,pilot,13,9/28/2020,1:50,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Sylvilagus floridanus,MC
-2020,bioblitz,pilot,15,9/28/2020,1:57,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Sylvilagus floridanus,MC
-2020,bioblitz,pilot,16,9/28/2020,1:57,Finch Hydro Corridor Recreational Trail,ground,vertebrate,Sylvilagus floridanus,MC
-2020,bioblitz,pilot,20,9/28/2020,2:13,Black Creek Parkland,ground,vertebrate,Sylvilagus floridanus,MC
-2020,bioblitz,pilot,21,9/28/2020,2:15,Black Creek Parkland,ground,vertebrate,Sylvilagus floridanus,MC
-2020,bioblitz,pilot,22,9/28/2020,2:21,Black Creek Parkland,ground,vertebrate,Sylvilagus floridanus,MC
-2020,bioblitz,pilot,12,9/24/2020,15:51,Dempsey Park,woodlot,vertebrate,Sylvilagus floridanus,JT
-2020,bioblitz,full,30,10/10/2020,21:04,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,57,10/12/2020,7:00,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,72,10/12/2020,20:36,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,77,10/12/2020,21:11,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,88,10/14/2020,7:22,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,105,10/14/2020,20:35,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,110,10/14/2020,21:11,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,115,10/15/2020,6:58,Sprucedale Pond,water,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,133,10/16/2020,7:02,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,146,10/16/2020,20:33,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,151,10/16/2020,21:08,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,162,10/18/2020,7:22,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,180,10/18/2020,20:46,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,183,10/18/2020,21:08,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,207,10/20/2020,7:05,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,219,10/20/2020,20:36,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
-2020,bioblitz,full,42,10/11/2020,13:50,Sprucedale Pond,water,invertebrate,Sympetrum ssp,JT
-2020,bioblitz,full,119,10/15/2020,13:38,Sprucedale Pond,water,invertebrate,Sympetrum ssp,JT
-2020,bioblitz,full,194,10/19/2020,13:45,Sprucedale Pond,water,invertebrate,Sympetrum ssp,JT
-2020,bioblitz,full,197,10/19/2020,14:11,Sprucedale Pond,water,invertebrate,Sympetrum ssp,JT
-2020,bioblitz,full,3,10/11/2020,14:51,Frontyard,ground,vertebrate,Tamias striatus,MC
-2020,bioblitz,full,91,10/14/2020,15:00,Frontyard,tree,vertebrate,Tamias striatus,MC
-2020,bioblitz,pilot,103,9/23/2020,15:15,Deer Park,backyard,invertebrate,Tetramorium immigrans,AT
-2020,bioblitz,pilot,203,9/25/2020,15:00,Deer Park,backyard,invertebrate,Tetramorium immigrans,AT
-2020,bioblitz,pilot,306,9/26/2020,13:30,Crothers Woods,forest,invertebrate,Tetramorium immigrans,AT
-2020,bioblitz,full,37,10/11/2020,7:18,Sprucedale Pond,water,vertebrate,Thamnophis sirtalis,JT
-2020,bioblitz,full,189,10/19/2020,7:04,Sprucedale Pond,water,vertebrate,Thamnophis sirtalis,JT
-2020,bioblitz,pilot,4,9/24/2020,15:21,Woodward Woodlot,woodlot,invertebrate,Tipula oleracea,JT
-2020,bioblitz,full,4,10/10/2020,6:54,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,17,10/10/2020,13:49,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,25,10/10/2020,20:34,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,28,10/10/2020,20:47,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,32,10/10/2020,21:21,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,59,10/12/2020,7:27,Dempsey Park,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,66,10/12/2020,13:59,Dempsey Park,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,75,10/12/2020,20:51,Dempsey Park,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,87,10/14/2020,7:17,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,94,10/14/2020,13:42,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,101,10/14/2020,14:13,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,106,10/14/2020,20:41,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,111,10/14/2020,21:12,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
 2020,bioblitz,full,122,10/15/2020,14:06,Sprucedale Pond,water,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,123,10/17/2020,16:11,Behind apartment building,tree,vertebrate,Agelaius phoeniceus,MC
+2020,bioblitz,full,123,10/15/2020,14:13,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
+2020,bioblitz,full,124,10/15/2020,20:32,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
+2020,bioblitz,full,124,10/17/2020,16:14,Behind apartment building,ground,invertebrate,Grylloidea ssp,MC
+2020,bioblitz,full,125,10/15/2020,20:33,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,full,125,10/17/2020,16:21,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,126,10/17/2020,16:25,Behind apartment building,balcony,vertebrate,Columba livia,MC
+2020,bioblitz,full,126,10/15/2020,20:41,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
+2020,bioblitz,full,127,10/17/2020,16:30,Behind apartment building,flying,vertebrate,Corvus brachyrhynchos,MC
 2020,bioblitz,full,127,10/15/2020,21:00,Sprucedale Pond,water,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,161,10/18/2020,7:15,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,168,10/18/2020,13:42,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,175,10/18/2020,14:12,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,179,10/18/2020,20:42,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,184,10/18/2020,21:10,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,196,10/19/2020,14:08,Sprucedale Pond,water,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,full,202,10/19/2020,21:01,Sprucedale Pond,water,invertebrate,Tipulidae ssp,JT
-2020,bioblitz,pilot,1,9/25/2020,12:02,Backyard,tree,invertebrate,Triatoma rubrofasciata,SN
-2020,bioblitz,pilot,10,9/27/2020,19:39,Black Creek Parkland,branch,vertebrate,Turdus migratorius,MC
-2020,bioblitz,full,83,10/14/2020,14:39,Backyard,tree,vertebrate,Turdus migratorius,MC
-2020,bioblitz,full,84,10/14/2020,14:39,Backyard,tree,vertebrate,Turdus migratorius,MC
-2020,bioblitz,full,3,10/10/2020,6:42,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
-2020,bioblitz,full,12,10/10/2020,13:31,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
-2020,bioblitz,full,14,10/10/2020,13:38,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
-2020,bioblitz,full,54,10/12/2020,6:41,Dempsey Park,woodlot,vertebrate,Turdus migratorius,JT
-2020,bioblitz,full,62,10/12/2020,13:38,Dempsey Park,woodlot,vertebrate,Turdus migratorius,JT
-2020,bioblitz,full,82,10/14/2020,6:45,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
-2020,bioblitz,full,91,10/14/2020,13:33,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
-2020,bioblitz,full,99,10/14/2020,14:01,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,128,10/17/2020,16:33,Behind apartment building,power line,vertebrate,Corvus brachyrhynchos,MC
+2020,bioblitz,full,128,10/15/2020,21:19,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
+2020,bioblitz,full,129,10/17/2020,16:47,Behind apartment building,ground,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,129,10/16/2020,6:32,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,full,130,10/16/2020,6:38,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,130,10/17/2020,16:47,Behind apartment building,ground,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,131,10/17/2020,16:47,Behind apartment building,ground,vertebrate,Melospiza melodia,MC
 2020,bioblitz,full,131,10/16/2020,6:45,Dempsey Park,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,132,10/17/2020,16:47,Behind apartment building,ground,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,132,10/16/2020,6:51,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,133,10/18/2020,15:00,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,133,10/16/2020,7:02,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,134,10/16/2020,7:12,Dempsey Park,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,134,10/18/2020,15:07,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,135,10/18/2020,15:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,full,135,10/16/2020,7:24,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,136,10/18/2020,15:11,Behind apartment building,ground,invertebrate,Gastropoda ssp,MC
+2020,bioblitz,full,136,10/16/2020,13:30,Dempsey Park,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,137,10/16/2020,13:34,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
+2020,bioblitz,full,137,10/18/2020,15:15,Behind apartment building,tree,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,138,10/18/2020,15:22,Behind apartment building,balcony,vertebrate,Columba livia,MC
+2020,bioblitz,full,138,10/16/2020,13:41,Dempsey Park,woodlot,vertebrate,Corvus brachyrhynchos,JT
+2020,bioblitz,full,139,10/18/2020,15:22,Behind apartment building,balcony,vertebrate,Columba livia,MC
+2020,bioblitz,full,139,10/16/2020,13:45,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,140,10/18/2020,15:22,Behind apartment building,flying,vertebrate,Columba livia,MC
+2020,bioblitz,full,140,10/16/2020,13:52,Dempsey Park,woodlot,invertebrate,Malacosoma americanum,JT
+2020,bioblitz,full,141,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
 2020,bioblitz,full,141,10/16/2020,13:03,Dempsey Park,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,142,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,142,10/16/2020,13:09,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,143,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,143,10/16/2020,13:17,Dempsey Park,woodlot,vertebrate,Spinus tristis,JT
+2020,bioblitz,full,144,10/16/2020,13:21,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
+2020,bioblitz,full,144,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,145,10/18/2020,15:31,Behind apartment building,bush,vertebrate,Melospiza melodia,MC
+2020,bioblitz,full,145,10/16/2020,13:28,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,full,146,10/18/2020,15:40,Behind apartment building,ground,vertebrate,Sciurus carolinensis,MC
+2020,bioblitz,full,146,10/16/2020,20:33,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,147,10/16/2020,20:39,Dempsey Park,woodlot,vertebrate,Mephitis mephitis,JT
+2020,bioblitz,full,148,10/16/2020,20:44,Dempsey Park,woodlot,vertebrate,Lithobates sylvaticus,JT
+2020,bioblitz,full,149,10/16/2020,20:51,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,150,10/16/2020,21:01,Dempsey Park,woodlot,vertebrate,Procyon lotor,JT
+2020,bioblitz,full,151,10/16/2020,21:08,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,152,10/16/2020,21:14,Dempsey Park,woodlot,invertebrate,Culicidae ssp,JT
+2020,bioblitz,full,153,10/16/2020,21:26,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,154,10/18/2020,6:35,Woodward Woodlot,woodlot,invertebrate,Araneae ssp,JT
+2020,bioblitz,full,155,10/18/2020,6:39,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
 2020,bioblitz,full,156,10/18/2020,6:44,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,157,10/18/2020,6:48,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,158,10/18/2020,6:57,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,159,10/18/2020,7:06,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,full,160,10/18/2020,7:10,Woodward Woodlot,woodlot,vertebrate,Corvus brachyrhynchos,JT
+2020,bioblitz,full,161,10/18/2020,7:15,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,162,10/18/2020,7:22,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,163,10/18/2020,7:25,Woodward Woodlot,woodlot,invertebrate,Oniscidea ssp,JT
+2020,bioblitz,full,164,10/18/2020,7:31,Woodward Woodlot,woodlot,vertebrate,Accipiter cooperii,JT
 2020,bioblitz,full,165,10/18/2020,13:33,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,166,10/18/2020,13:37,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,167,10/18/2020,13:38,Woodward Woodlot,woodlot,vertebrate,Colaptes auratus,JT
+2020,bioblitz,full,168,10/18/2020,13:42,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,169,10/18/2020,13:46,Woodward Woodlot,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,full,170,10/18/2020,13:50,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,171,10/18/2020,13:54,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,172,10/18/2020,13:59,Woodward Woodlot,woodlot,vertebrate,Sciurus carolinensis,JT
 2020,bioblitz,full,173,10/18/2020,14:01,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,full,174,10/18/2020,14:05,Woodward Woodlot,woodlot,invertebrate,Malacosoma americanum,JT
+2020,bioblitz,full,175,10/18/2020,14:12,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,176,10/18/2020,14:18,Woodward Woodlot,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,177,10/18/2020,14:23,Woodward Woodlot,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,178,10/18/2020,20:37,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,179,10/18/2020,20:42,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,180,10/18/2020,20:46,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,181,10/18/2020,20:54,Woodward Woodlot,woodlot,vertebrate,Chordeiles minor,JT
+2020,bioblitz,full,182,10/18/2020,21:02,Woodward Woodlot,woodlot,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,183,10/18/2020,21:08,Woodward Woodlot,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,184,10/18/2020,21:10,Woodward Woodlot,woodlot,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,185,10/18/2020,21:26,Woodward Woodlot,woodlot,vertebrate,Mephitis mephitis,JT
+2020,bioblitz,full,186,10/19/2020,6:33,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
+2020,bioblitz,full,187,10/19/2020,6:33,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,full,188,10/19/2020,6:49,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
+2020,bioblitz,full,189,10/19/2020,7:04,Sprucedale Pond,water,vertebrate,Thamnophis sirtalis,JT
+2020,bioblitz,full,190,10/19/2020,7:27,Sprucedale Pond,water,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,191,10/19/2020,13:32,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
+2020,bioblitz,full,192,10/19/2020,13:32,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,full,193,10/19/2020,13:39,Sprucedale Pond,water,invertebrate,Apis mellifera,JT
+2020,bioblitz,full,194,10/19/2020,13:45,Sprucedale Pond,water,invertebrate,Sympetrum ssp,JT
+2020,bioblitz,full,195,10/19/2020,13:53,Sprucedale Pond,water,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,196,10/19/2020,14:08,Sprucedale Pond,water,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,full,197,10/19/2020,14:11,Sprucedale Pond,water,invertebrate,Sympetrum ssp,JT
+2020,bioblitz,full,198,10/19/2020,14:26,Sprucedale Pond,water,vertebrate,Falco sparverius,JT
+2020,bioblitz,full,199,10/19/2020,20:31,Sprucedale Pond,water,vertebrate,Anas platyrhynchos,JT
+2020,bioblitz,full,200,10/19/2020,20:32,Sprucedale Pond,water,vertebrate,Branta canadensis,JT
+2020,bioblitz,full,201,10/19/2020,20:44,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
+2020,bioblitz,pilot,201,9/25/2020,15:00,Deer Park,backyard,vertebrate,Sciurus carolinensis,AT
+2020,bioblitz,full,202,10/19/2020,21:01,Sprucedale Pond,water,invertebrate,Tipulidae ssp,JT
+2020,bioblitz,pilot,202,9/25/2020,15:00,Deer Park,backyard,invertebrate,Camponotus pennsylvanicus,AT
+2020,bioblitz,full,203,10/19/2020,21:22,Sprucedale Pond,water,vertebrate,Lithobates sylvaticus,JT
+2020,bioblitz,pilot,203,9/25/2020,15:00,Deer Park,backyard,invertebrate,Tetramorium immigrans,AT
+2020,bioblitz,full,204,10/20/2020,6:34,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,pilot,204,9/25/2020,15:00,Deer Park,backyard,invertebrate,Acalymma vittatum,AT
+2020,bioblitz,full,205,10/20/2020,6:46,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,pilot,205,9/25/2020,15:00,Deer Park,backyard,invertebrate,Pisaurina mira,AT
 2020,bioblitz,full,206,10/20/2020,6:53,Dempsey Park,woodlot,vertebrate,Turdus migratorius,JT
+2020,bioblitz,pilot,206,9/25/2020,15:00,Deer Park,backyard,invertebrate,Contacyphon ssp,AT
+2020,bioblitz,full,207,10/20/2020,7:05,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,pilot,207,9/25/2020,15:00,Deer Park,backyard,invertebrate,Melanophora roralis,AT
+2020,bioblitz,full,208,10/20/2020,7:12,Dempsey Park,woodlot,vertebrate,Passer domesticus,JT
+2020,bioblitz,full,209,10/20/2020,7:27,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,210,10/20/2020,13:35,Dempsey Park,woodlot,vertebrate,Sciurus niger,JT
+2020,bioblitz,full,211,10/20/2020,13:38,Dempsey Park,woodlot,vertebrate,Cyanocitta cristata,JT
+2020,bioblitz,full,212,10/20/2020,13:43,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,213,10/20/2020,13:49,Dempsey Park,woodlot,vertebrate,Corvus brachyrhynchos,JT
+2020,bioblitz,full,214,10/20/2020,13:52,Dempsey Park,woodlot,vertebrate,Spinus tristis,JT
 2020,bioblitz,full,215,10/20/2020,13:05,Dempsey Park,woodlot,vertebrate,Turdus migratorius,JT
-2020,bioblitz,pilot,5,9/24/2020,15:25,Woodward Woodlot,woodlot,vertebrate,Turdus migratorius,JT
-2020,bioblitz,full,60,10/12/2020,13:32,Dempsey Park,woodlot,invertebrate,Vespula alascensis,JT
-2020,bioblitz,pilot,10,9/24/2020,15:47,Dempsey Park,woodlot,invertebrate,Vespula alascensis,JT
+2020,bioblitz,full,216,10/20/2020,13:11,Dempsey Park,woodlot,vertebrate,Sciurus carolinensis,JT
+2020,bioblitz,full,217,10/20/2020,13:20,Dempsey Park,woodlot,invertebrate,Malacosoma americanum,JT
+2020,bioblitz,full,218,10/20/2020,13:29,Dempsey Park,woodlot,invertebrate,Pieris virginiensis,JT
+2020,bioblitz,full,219,10/20/2020,20:36,Dempsey Park,woodlot,vertebrate,Sylvilagus ssp,JT
+2020,bioblitz,full,220,10/20/2020,20:42,Dempsey Park,woodlot,invertebrate,Culicidae ssp,JT
+2020,bioblitz,full,221,10/20/2020,20:50,Dempsey Park,woodlot,vertebrate,Procyon lotor,JT
+2020,bioblitz,full,222,10/20/2020,21:03,Dempsey Park,woodlot,vertebrate,Lithobates sylvaticus,JT
+2020,bioblitz,full,223,10/20/2020,21:11,Dempsey Park,woodlot,invertebrate,Macaria ssp,JT
+2020,bioblitz,full,224,10/20/2020,21:19,Dempsey Park,woodlot,invertebrate,Culicidae ssp,JT
+2020,bioblitz,full,225,10/20/2020,21:27,Dempsey Park,woodlot,vertebrate,Mephitis mephitis,JT
+2020,bioblitz,pilot,301,9/26/2020,13:30,Crothers Woods,forest,vertebrate,Sciurus carolinensis,AT
+2020,bioblitz,pilot,302,9/26/2020,13:30,Crothers Woods,forest,Cepaea hortensis,Cepaea hortensis,AT
+2020,bioblitz,pilot,303,9/26/2020,13:30,Crothers Woods,forest,invertebrate,Bradysia ssp,AT
+2020,bioblitz,pilot,304,9/26/2020,13:30,Crothers Woods,forest,Cepaea hortensis,Bryobia praetiosa,AT
+2020,bioblitz,pilot,305,9/26/2020,13:30,Crothers Woods,forest,vertebrate,Anas platyrhynchos,AT
+2020,bioblitz,pilot,306,9/26/2020,13:30,Crothers Woods,forest,invertebrate,Tetramorium immigrans,AT
