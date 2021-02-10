@@ -515,15 +515,15 @@ problems(birds)</code></pre>
 <pre><code>## tibble [826 × 11] (S3: spec_tbl_df/tbl_df/tbl/data.frame)
 ##  $ year        : num [1:826] 2020 2020 2020 2020 2020 2020 2020 2020 2020 2020 ...
 ##  $ experiment  : chr [1:826] &quot;balcony birdwatching&quot; &quot;balcony birdwatching&quot; &quot;balcony birdwatching&quot; &quot;balcony birdwatching&quot; ...
-##  $ source      : chr [1:826] &quot;full&quot; &quot;full&quot; &quot;full&quot; &quot;pilot&quot; ...
+##  $ source      : chr [1:826] &quot;full&quot; &quot;full&quot; &quot;full&quot; &quot;full&quot; ...
 ##  $ rep         : num [1:826] 1 1 1 1 1 1 1 1 1 1 ...
-##  $ date        : Date[1:826], format: &quot;2020-10-14&quot; &quot;2020-10-18&quot; ...
-##  $ location    : chr [1:826] &quot;Holditch Street&quot; &quot;Fred Young Park&quot; &quot;Fred Young Park&quot; &quot;Holditch St Bracebridge&quot; ...
-##  $ species     : chr [1:826] &quot;Catharus guttatus&quot; &quot;Corvus brachyrhynchos&quot; &quot;Corvus brachyrhynchos&quot; &quot;Corvus brachyrhynchos&quot; ...
-##  $ frequency   : num [1:826] 1 1 1 1 1 1 1 1 1 1 ...
-##  $ behaviour   : chr [1:826] &quot;flying&quot; &quot;flying&quot; &quot;flying&quot; &quot;flying&quot; ...
-##  $ inititals   : chr [1:826] &quot;RD&quot; &quot;RD&quot; &quot;RD&quot; &quot;RD&quot; ...
-##  $ citation_DOI: logi [1:826] NA NA NA NA NA NA ...
+##  $ date        : Date[1:826], format: &quot;2020-10-13&quot; &quot;2020-10-13&quot; ...
+##  $ location    : chr [1:826] &quot;Holditch Street&quot; &quot;Holditch Street&quot; &quot;Holditch Street&quot; &quot;High Park&quot; ...
+##  $ species     : chr [1:826] &quot;Agelaius phoeniceus&quot; &quot;Agelaius phoeniceus&quot; &quot;Agelaius phoeniceus&quot; &quot;Aix spinosa&quot; ...
+##  $ frequency   : num [1:826] 3 4 1 4 4 6 9 10 2 2 ...
+##  $ behaviour   : chr [1:826] &quot;flying&quot; &quot;flying&quot; &quot;perching&quot; &quot;swimming&quot; ...
+##  $ inititals   : chr [1:826] &quot;RD&quot; &quot;RD&quot; &quot;RD&quot; &quot;AB&quot; ...
+##  $ citation_DOI: chr [1:826] &quot;https://doi.org/10.6084/m9.figshare.13107569.v4&quot; &quot;https://doi.org/10.6084/m9.figshare.13107569.v4&quot; &quot;https://doi.org/10.6084/m9.figshare.13107569.v4&quot; &quot;https://doi.org/10.6084/m9.figshare.13126829.v1&quot; ...
 ##  - attr(*, &quot;spec&quot;)=
 ##   .. cols(
 ##   ..   year = col_double(),
@@ -536,7 +536,7 @@ problems(birds)</code></pre>
 ##   ..   frequency = col_double(),
 ##   ..   behaviour = col_character(),
 ##   ..   inititals = col_character(),
-##   ..   citation_DOI = col_logical()
+##   ..   citation_DOI = col_character()
 ##   .. )</code></pre>
 <pre class="r"><code>skim(birds)</code></pre>
 <table>
@@ -564,25 +564,21 @@ problems(birds)</code></pre>
 </tr>
 <tr class="even">
 <td align="left">character</td>
-<td align="left">6</td>
+<td align="left">7</td>
 </tr>
 <tr class="odd">
 <td align="left">Date</td>
 <td align="left">1</td>
 </tr>
 <tr class="even">
-<td align="left">logical</td>
-<td align="left">1</td>
-</tr>
-<tr class="odd">
 <td align="left">numeric</td>
 <td align="left">3</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td align="left">________________________</td>
 <td align="left"></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td align="left">Group variables</td>
 <td align="left">None</td>
 </tr>
@@ -638,9 +634,9 @@ problems(birds)</code></pre>
 <td align="right">0</td>
 <td align="right">1</td>
 <td align="right">4</td>
-<td align="right">25</td>
+<td align="right">24</td>
 <td align="right">0</td>
-<td align="right">101</td>
+<td align="right">61</td>
 <td align="right">0</td>
 </tr>
 <tr class="odd">
@@ -661,6 +657,16 @@ problems(birds)</code></pre>
 <td align="right">2</td>
 <td align="right">0</td>
 <td align="right">13</td>
+<td align="right">0</td>
+</tr>
+<tr class="odd">
+<td align="left">citation_DOI</td>
+<td align="right">0</td>
+<td align="right">1</td>
+<td align="right">43</td>
+<td align="right">47</td>
+<td align="right">0</td>
+<td align="right">21</td>
 <td align="right">0</td>
 </tr>
 </tbody>
@@ -687,27 +693,6 @@ problems(birds)</code></pre>
 <td align="left">2020-11-10</td>
 <td align="left">2020-10-11</td>
 <td align="right">45</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Variable type: logical</strong></p>
-<table>
-<thead>
-<tr class="header">
-<th align="left">skim_variable</th>
-<th align="right">n_missing</th>
-<th align="right">complete_rate</th>
-<th align="right">mean</th>
-<th align="left">count</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td align="left">citation_DOI</td>
-<td align="right">826</td>
-<td align="right">0</td>
-<td align="right">NaN</td>
-<td align="left">:</td>
 </tr>
 </tbody>
 </table>
