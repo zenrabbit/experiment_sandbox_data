@@ -19,13 +19,58 @@ Students in course offering collected, innovated, and published individual, prim
 MZ, MO, and CJL reviewed the compiled data.
 
 Metadata  
+Record-level  
+year is the calendar year of work not term  
+experiment describes the three experimental options in designcraft book  
+source is either full experiment or pilot experiment  
+rep is the replicate per experimental set  
+location is the site name locally  
+habitat is the ecological classification  
+date is the calendar date for each observation  
+
+Attribute-level  
+bioblitz  
+taxa is a classification by vertebrate or invertebrate  
+species in the genus and species for observation   
+
+birds  
+frequency is the number observed within a 3-5min observation interval  
+behaviours are described in ethogram  
+
+solo-survey  
+vegetation surveys and species_richness is the total number of unique species observed per 0.5 x 0.5m quadrat  
+total cover is the total cover of vegetation within the 0.5m quadrat capped at 100  
+
+
 
 
 ### Data  
 Data checks.  
 ```{r}
 library(tidyverse)  
-bioblitz <- read_csv("data/designcraft4expts_bioblitz.csv")
+library(skimr)
+library(lubridate)
+
+#bioblitz
+bioblitz <- read_csv("data/designcraft4expts_bioblitz.csv") %>% 
+  mutate(date = mdy(date))
+problems(bioblitz)
+str(bioblitz)
+skim(bioblitz)
+
+#birds
+birds <- read_csv("data/designcraft4expts_birds.csv") %>% 
+  mutate(date = mdy(date))
+problems(birds)
+str(birds)
+skim(birds)
+
+#survey
+survey <- read_csv("data/designcraft4expts_solo_surveys.csv") %>% 
+  mutate(date = mdy(date))
+problems(survey)
+str(survey)
+skim(survey)
 
 
 
