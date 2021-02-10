@@ -1,0 +1,582 @@
+year,experiment,source,rep,date,location,species_richness,total_cover,inititals
+2020,solo survey,full,1,9/23/2020,Taylor Creek Park,3,80,AA
+2020,solo survey,full,2,9/23/2020,Taylor Creek Park,4,80,AA
+2020,solo survey,full,3,9/23/2020,Taylor Creek Park,3,70,AA
+2020,solo survey,full,4,9/23/2020,Taylor Creek Park,3,30,AA
+2020,solo survey,full,5,9/23/2020,Taylor Creek Park,2,90,AA
+2020,solo survey,full,6,9/23/2020,Taylor Creek Park,4,80,AA
+2020,solo survey,full,7,9/23/2020,Taylor Creek Park,3,60,AA
+2020,solo survey,full,8,9/23/2020,Taylor Creek Park,4,100,AA
+2020,solo survey,full,9,9/23/2020,Taylor Creek Park,3,90,AA
+2020,solo survey,full,10,9/23/2020,Taylor Creek Park,5,100,AA
+2020,solo survey,full,11,9/23/2020,Taylor Creek Park,4,70,AA
+2020,solo survey,full,12,9/23/2020,Taylor Creek Park,5,100,AA
+2020,solo survey,full,13,9/23/2020,Taylor Creek Park,4,90,AA
+2020,solo survey,full,14,9/23/2020,Taylor Creek Park,4,60,AA
+2020,solo survey,full,15,9/23/2020,Taylor Creek Park,4,70,AA
+2020,solo survey,full,16,9/24/2020,Taylor Creek Park,4,90,AA
+2020,solo survey,full,17,9/24/2020,Taylor Creek Park,3,70,AA
+2020,solo survey,full,18,9/24/2020,Taylor Creek Park,5,90,AA
+2020,solo survey,full,19,9/24/2020,Taylor Creek Park,4,70,AA
+2020,solo survey,full,20,9/24/2020,Taylor Creek Park,3,70,AA
+2020,solo survey,full,21,9/24/2020,Taylor Creek Park,4,80,AA
+2020,solo survey,full,22,9/24/2020,Taylor Creek Park,3,60,AA
+2020,solo survey,full,23,9/24/2020,Taylor Creek Park,5,70,AA
+2020,solo survey,full,24,9/24/2020,Taylor Creek Park,4,50,AA
+2020,solo survey,full,25,9/24/2020,Taylor Creek Park,4,60,AA
+2020,solo survey,full,26,9/24/2020,Taylor Creek Park,3,60,AA
+2020,solo survey,full,27,9/24/2020,Taylor Creek Park,4,80,AA
+2020,solo survey,full,28,9/24/2020,Taylor Creek Park,3,70,AA
+2020,solo survey,full,29,9/24/2020,Taylor Creek Park,2,55,AA
+2020,solo survey,full,30,9/24/2020,Taylor Creek Park,3,60,AA
+2020,solo survey,full,1,10/04/2020,High Park: Hillside Gardens,15,35,HD
+2020,solo survey,full,2,10/04/2020,High Park: Hiking Trail,33,17,HD
+2020,solo survey,full,3,10/04/2020,High Park: Hillside Gardens,22,30,HD
+2020,solo survey,full,4,10/04/2020,High Park: Hiking Trail,40,12,HD
+2020,solo survey,full,5,10/05/2020,High Park: Hillside Gardens,9,45,HD
+2020,solo survey,full,6,10/05/2020,High Park: Hiking Trail,37,9,HD
+2020,solo survey,full,7,10/06/2020,High Park: Hillside Gardens,8,40,HD
+2020,solo survey,full,8,10/06/2020,High Park: Hiking Trail,25,10,HD
+2020,solo survey,full,9,10/07/2020,High Park: Hillside Gardens,10,33,HD
+2020,solo survey,full,10,10/07/2020,High Park: Hiking Trail,24,11,HD
+2020,solo survey,full,11,10/08/2020,High Park: Hillside Gardens,7,42,HD
+2020,solo survey,full,12,10/08/2020,High Park: Hiking Trail,29,7,HD
+2020,solo survey,full,13,10/10/2020,High Park: Hillside Gardens,12,31,HD
+2020,solo survey,full,14,10/10/2020,High Park: Hiking Trail,28,9,HD
+2020,solo survey,full,15,10/11/2020,High Park: Hillside Gardens,13,42,HD
+2020,solo survey,full,16,10/11/2020,High Park: Hiking Trail,40,7,HD
+2020,solo survey,full,17,10/11/2020,High Park: Hillside Gardens,18,32,HD
+2020,solo survey,full,18,10/11/2020,High Park: Hiking Trail,26,5,HD
+2020,solo survey,full,19,10/12/2020,High Park: Hillside Gardens,14,43,HD
+2020,solo survey,full,20,10/12/2020,High Park: Hiking Trail,36,8,HD
+2020,solo survey,pilot,1,09/15/2020,Firgrove Park,5,80,FO
+2020,solo survey,pilot,2,09/15/2020,Firgrove Park,4,85,FO
+2020,solo survey,pilot,3,09/15/2020,Firgrove Park,2,98,FO
+2020,solo survey,pilot,4,09/15/2020,Firgrove Park,3,90,FO
+2020,solo survey,pilot,5,09/15/2020,Firgrove Park,3,85,FO
+2020,solo survey,pilot,6,09/15/2020,Firgrove Park,4,100,FO
+2020,solo survey,pilot,7,09/15/2020,Firgrove Park,3,90,FO
+2020,solo survey,pilot,8,09/15/2020,Firgrove Park,3,95,FO
+2020,solo survey,pilot,9,09/15/2020,Firgrove Park,4,95,FO
+2020,solo survey,pilot,10,09/15/2020,Firgrove Park,3,90,FO
+2020,solo survey,pilot,11,09/15/2020,Firgrove Park,3,75,FO
+2020,solo survey,pilot,12,09/15/2020,Firgrove Park,4,80,FO
+2020,solo survey,pilot,13,09/15/2020,Firgrove Park,3,90,FO
+2020,solo survey,pilot,14,09/15/2020,Firgrove Park,2,90,FO
+2020,solo survey,pilot,15,09/15/2020,Firgrove Park,4,90,FO
+2020,solo survey,pilot,16,09/15/2020,Firgrove Park,3,70,FO
+2020,solo survey,pilot,17,09/15/2020,Firgrove Park,3,75,FO
+2020,solo survey,pilot,18,09/15/2020,Firgrove Park,4,70,FO
+2020,solo survey,pilot,19,09/15/2020,Firgrove Park,4,65,FO
+2020,solo survey,pilot,20,09/15/2020,Firgrove Park,5,65,FO
+2020,solo survey,pilot,21,09/15/2020,Firgrove Park,3,50,FO
+2020,solo survey,pilot,22,09/15/2020,Firgrove Park,4,80,FO
+2020,solo survey,pilot,23,09/15/2020,Firgrove Park,4,70,FO
+2020,solo survey,pilot,24,09/15/2020,Firgrove Park,3,80,FO
+2020,solo survey,pilot,25,09/15/2020,Firgrove Park,4,80,FO
+2020,solo survey,pilot,26,09/15/2020,Firgrove Park,4,90,FO
+2020,solo survey,pilot,27,09/15/2020,Firgrove Park,3,95,FO
+2020,solo survey,pilot,28,09/15/2020,Firgrove Park,4,90,FO
+2020,solo survey,pilot,29,09/15/2020,Firgrove Park,2,98,FO
+2020,solo survey,pilot,30,09/15/2020,Firgrove Park,3,70,FO
+2020,solo survey,pilot,31,09/15/2020,Firgrove Park,4,70,FO
+2020,solo survey,pilot,32,09/15/2020,Firgrove Park,4,70,FO
+2020,solo survey,pilot,33,09/15/2020,Firgrove Park,3,50,FO
+2020,solo survey,pilot,34,09/15/2020,Firgrove Park,3,60,FO
+2020,solo survey,pilot,35,09/15/2020,Firgrove Park,3,80,FO
+2020,solo survey,pilot,36,09/15/2020,Firgrove Park,3,50,FO
+2020,solo survey,pilot,37,09/15/2020,Firgrove Park,3,50,FO
+2020,solo survey,pilot,38,09/15/2020,Firgrove Park,4,90,FO
+2020,solo survey,pilot,39,09/15/2020,Firgrove Park,4,80,FO
+2020,solo survey,pilot,40,09/15/2020,Firgrove Park,3,60,FO
+2020,solo survey,pilot,41,09/15/2020,Firgrove Park,3,60,FO
+2020,solo survey,pilot,42,09/15/2020,Firgrove Park,4,70,FO
+2020,solo survey,pilot,43,09/15/2020,Firgrove Park,5,70,FO
+2020,solo survey,pilot,44,09/15/2020,Firgrove Park,3,60,FO
+2020,solo survey,pilot,45,09/15/2020,Firgrove Park,4,80,FO
+2020,solo survey,pilot,46,09/15/2020,Firgrove Park,4,95,FO
+2020,solo survey,pilot,47,09/15/2020,Firgrove Park,5,60,FO
+2020,solo survey,pilot,48,09/15/2020,Firgrove Park,2,50,FO
+2020,solo survey,pilot,49,09/15/2020,Firgrove Park,3,30,FO
+2020,solo survey,pilot,50,09/15/2020,Firgrove Park,4,80,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,3,12,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,4,16,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,3,12,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,4,16,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,3,12,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,4,16,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,3,12,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,3,12,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,3,12,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,3,12,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,4,16,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,7,28,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,6,24,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,4,16,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,4,16,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,3,12,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,1,4,FO
+2020,solo survey,full,1,10/16/2020,Firgrove Park,2,8,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,1,4,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,3,12,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,2,8,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,6,24,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,3,12,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,2,8,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,4,16,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,1,4,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,5,20,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,8,32,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,1,4,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,1,4,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,3,12,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,2,8,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,1,4,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,5,20,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,1,4,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,2,8,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,2,8,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,3,12,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,4,16,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,4,16,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,4,16,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,2,8,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,2,8,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,1,4,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,5,20,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,4,16,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,3,12,FO
+2020,solo survey,full,2,10/16/2020,Topcliff Park,3,12,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,5,20,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,1,4,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,3,12,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,1,4,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,4,16,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,1,4,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,1,4,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,4,16,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,4,16,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,5,20,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,5,20,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,4,16,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,6,24,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,4,16,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,6,24,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,7,28,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,4,16,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,4,16,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,2,8,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,1,4,FO
+2020,solo survey,full,3,10/17/2020,Oakdale Park,6,24,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,5,20,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,5,20,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,1,4,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,4,16,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,2,8,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,2,8,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,2,8,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,4,16,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,1,4,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,1,4,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,4,16,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,4,16,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,2,8,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,5,20,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,2,8,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,2,8,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,5,20,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,2,8,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,4,16,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,2,8,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,5,20,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,1,4,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,4,16,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,6,24,FO
+2020,solo survey,full,4,10/17/2020,Yorkwoods Park,3,12,FO
+2020,solo survey,pilot,1,9/28/2020,Forest Path in King City,3,75,JZ
+2020,solo survey,pilot,2,9/28/2020,Forest Path in King City,3,50,JZ
+2020,solo survey,pilot,3,9/28/2020,Forest Path in King City,1,20,JZ
+2020,solo survey,pilot,4,9/28/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,pilot,5,9/28/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,pilot,6,9/28/2020,Forest Path in King City,2,40,JZ
+2020,solo survey,pilot,7,9/28/2020,Forest Path in King City,1,90,JZ
+2020,solo survey,pilot,8,9/28/2020,Forest Path in King City,4,100,JZ
+2020,solo survey,pilot,9,9/28/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,pilot,10,9/28/2020,Forest Path in King City,1,50,JZ
+2020,solo survey,pilot,11,9/28/2020,Forest Path in King City,1,25,JZ
+2020,solo survey,pilot,12,9/28/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,pilot,13,9/28/2020,Forest Path in King City,2,20,JZ
+2020,solo survey,pilot,14,9/28/2020,Forest Path in King City,1,10,JZ
+2020,solo survey,pilot,15,9/28/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,pilot,16,9/28/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,pilot,17,9/28/2020,Forest Path in King City,3,100,JZ
+2020,solo survey,pilot,18,9/28/2020,Forest Path in King City,3,75,JZ
+2020,solo survey,pilot,19,9/28/2020,Forest Path in King City,3,100,JZ
+2020,solo survey,pilot,20,9/28/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,pilot,21,9/28/2020,Forest Path in King City,3,75,JZ
+2020,solo survey,pilot,22,9/28/2020,Forest Path in King City,4,75,JZ
+2020,solo survey,pilot,23,9/28/2020,Forest Path in King City,4,50,JZ
+2020,solo survey,pilot,24,9/28/2020,Forest Path in King City,5,60,JZ
+2020,solo survey,pilot,25,9/28/2020,Forest Path in King City,4,25,JZ
+2020,solo survey,pilot,26,9/28/2020,Forest Path in King City,3,80,JZ
+2020,solo survey,pilot,27,9/28/2020,Forest Path in King City,2,50,JZ
+2020,solo survey,pilot,28,9/28/2020,Forest Path in King City,2,60,JZ
+2020,solo survey,pilot,29,9/28/2020,Forest Path in King City,1,75,JZ
+2020,solo survey,pilot,30,9/28/2020,Forest Path in King City,4,100,JZ
+2020,solo survey,pilot,31,9/28/2020,Forest Path in King City,4,100,JZ
+2020,solo survey,pilot,32,9/28/2020,Forest Path in King City,3,40,JZ
+2020,solo survey,pilot,33,9/28/2020,Forest Path in King City,4,60,JZ
+2020,solo survey,pilot,34,9/28/2020,Forest Path in King City,5,60,JZ
+2020,solo survey,pilot,35,9/28/2020,Forest Path in King City,5,50,JZ
+2020,solo survey,pilot,36,9/28/2020,Forest Path in King City,4,50,JZ
+2020,solo survey,pilot,37,9/28/2020,Forest Path in King City,4,30,JZ
+2020,solo survey,pilot,38,9/28/2020,Forest Path in King City,5,50,JZ
+2020,solo survey,pilot,39,9/28/2020,Forest Path in King City,3,70,JZ
+2020,solo survey,pilot,40,9/28/2020,Forest Path in King City,4,80,JZ
+2020,solo survey,pilot,41,9/28/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,pilot,42,9/28/2020,Forest Path in King City,3,50,JZ
+2020,solo survey,pilot,43,9/28/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,pilot,44,9/28/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,pilot,45,9/28/2020,Forest Path in King City,2,80,JZ
+2020,solo survey,pilot,46,9/28/2020,Forest Path in King City,2,90,JZ
+2020,solo survey,pilot,47,9/28/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,pilot,48,9/28/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,pilot,49,9/28/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,pilot,50,9/28/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,1,10/20/2020,Forest Path in King City,2,60,JZ
+2020,solo survey,full,2,10/20/2020,Forest Path in King City,3,50,JZ
+2020,solo survey,full,3,10/20/2020,Forest Path in King City,1,20,JZ
+2020,solo survey,full,4,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,5,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,6,10/20/2020,Forest Path in King City,3,40,JZ
+2020,solo survey,full,7,10/20/2020,Forest Path in King City,2,90,JZ
+2020,solo survey,full,8,10/20/2020,Forest Path in King City,4,90,JZ
+2020,solo survey,full,9,10/20/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,full,10,10/20/2020,Forest Path in King City,1,75,JZ
+2020,solo survey,full,11,10/20/2020,Forest Path in King City,2,25,JZ
+2020,solo survey,full,12,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,13,10/20/2020,Forest Path in King City,3,20,JZ
+2020,solo survey,full,14,10/20/2020,Forest Path in King City,1,10,JZ
+2020,solo survey,full,15,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,16,10/20/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,full,17,10/20/2020,Forest Path in King City,2,80,JZ
+2020,solo survey,full,18,10/20/2020,Forest Path in King City,3,60,JZ
+2020,solo survey,full,19,10/20/2020,Forest Path in King City,4,90,JZ
+2020,solo survey,full,20,10/20/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,full,21,10/20/2020,Forest Path in King City,2,75,JZ
+2020,solo survey,full,22,10/20/2020,Forest Path in King City,3,75,JZ
+2020,solo survey,full,23,10/20/2020,Forest Path in King City,4,50,JZ
+2020,solo survey,full,24,10/20/2020,Forest Path in King City,5,50,JZ
+2020,solo survey,full,25,10/20/2020,Forest Path in King City,3,40,JZ
+2020,solo survey,full,26,10/20/2020,Forest Path in King City,4,80,JZ
+2020,solo survey,full,27,10/20/2020,Forest Path in King City,2,70,JZ
+2020,solo survey,full,28,10/20/2020,Forest Path in King City,2,50,JZ
+2020,solo survey,full,29,10/20/2020,Forest Path in King City,1,75,JZ
+2020,solo survey,full,30,10/20/2020,Forest Path in King City,4,100,JZ
+2020,solo survey,full,31,10/20/2020,Forest Path in King City,3,100,JZ
+2020,solo survey,full,32,10/20/2020,Forest Path in King City,3,40,JZ
+2020,solo survey,full,33,10/20/2020,Forest Path in King City,4,75,JZ
+2020,solo survey,full,34,10/20/2020,Forest Path in King City,5,80,JZ
+2020,solo survey,full,35,10/20/2020,Forest Path in King City,5,60,JZ
+2020,solo survey,full,36,10/20/2020,Forest Path in King City,4,60,JZ
+2020,solo survey,full,37,10/20/2020,Forest Path in King City,4,25,JZ
+2020,solo survey,full,38,10/20/2020,Forest Path in King City,5,60,JZ
+2020,solo survey,full,39,10/20/2020,Forest Path in King City,3,75,JZ
+2020,solo survey,full,40,10/20/2020,Forest Path in King City,4,90,JZ
+2020,solo survey,full,41,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,42,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,43,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,44,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,45,10/20/2020,Forest Path in King City,2,80,JZ
+2020,solo survey,full,46,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,47,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,48,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,49,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,50,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,51,10/20/2020,Forest Path in King City,2,30,JZ
+2020,solo survey,full,52,10/20/2020,Forest Path in King City,1,10,JZ
+2020,solo survey,full,53,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,54,10/20/2020,Forest Path in King City,1,15,JZ
+2020,solo survey,full,55,10/20/2020,Forest Path in King City,3,75,JZ
+2020,solo survey,full,56,10/20/2020,Forest Path in King City,3,80,JZ
+2020,solo survey,full,57,10/20/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,full,58,10/20/2020,Forest Path in King City,1,10,JZ
+2020,solo survey,full,59,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,60,10/20/2020,Forest Path in King City,1,10,JZ
+2020,solo survey,full,61,10/20/2020,Forest Path in King City,1,80,JZ
+2020,solo survey,full,62,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,63,10/20/2020,Forest Path in King City,3,90,JZ
+2020,solo survey,full,64,10/20/2020,Forest Path in King City,1,15,JZ
+2020,solo survey,full,65,10/20/2020,Forest Path in King City,2,50,JZ
+2020,solo survey,full,66,10/20/2020,Forest Path in King City,1,80,JZ
+2020,solo survey,full,67,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,68,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,69,10/20/2020,Forest Path in King City,1,90,JZ
+2020,solo survey,full,70,10/20/2020,Forest Path in King City,2,90,JZ
+2020,solo survey,full,71,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,72,10/20/2020,Forest Path in King City,2,75,JZ
+2020,solo survey,full,73,10/20/2020,Forest Path in King City,3,15,JZ
+2020,solo survey,full,74,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,75,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,76,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,77,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,78,10/20/2020,Forest Path in King City,1,75,JZ
+2020,solo survey,full,79,10/20/2020,Forest Path in King City,2,80,JZ
+2020,solo survey,full,80,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,81,10/20/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,full,82,10/20/2020,Forest Path in King City,1,75,JZ
+2020,solo survey,full,83,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,84,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,85,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,86,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,87,10/20/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,full,88,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,89,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,90,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,91,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,92,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,93,10/20/2020,Forest Path in King City,2,50,JZ
+2020,solo survey,full,94,10/20/2020,Forest Path in King City,1,15,JZ
+2020,solo survey,full,95,10/20/2020,Forest Path in King City,0,0,JZ
+2020,solo survey,full,96,10/20/2020,Forest Path in King City,1,70,JZ
+2020,solo survey,full,97,10/20/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,full,98,10/20/2020,Forest Path in King City,1,100,JZ
+2020,solo survey,full,99,10/20/2020,Forest Path in King City,2,100,JZ
+2020,solo survey,full,100,10/20/2020,Forest Path in King City,3,75,JZ
+2020,solo survey,pilot,1,9/24/2020,Boyd Conservation Park,4,50,RD
+2020,solo survey,pilot,2,9/24/2020,Boyd Conservation Park,3,50,RD
+2020,solo survey,pilot,3,9/24/2020,Boyd Conservation Park,5,75,RD
+2020,solo survey,pilot,4,9/24/2020,Boyd Conservation Park,5,50,RD
+2020,solo survey,pilot,5,9/24/2020,Boyd Conservation Park,4,30,RD
+2020,solo survey,pilot,6,9/24/2020,Boyd Conservation Park,3,40,RD
+2020,solo survey,pilot,7,9/25/2020,Kortright Centre for Conservation,3,75,RD
+2020,solo survey,pilot,8,9/25/2020,Kortright Centre for Conservation,1,25,RD
+2020,solo survey,pilot,9,9/25/2020,Kortright Centre for Conservation,1,20,RD
+2020,solo survey,pilot,10,9/25/2020,Kortright Centre for Conservation,2,10,RD
+2020,solo survey,pilot,11,9/25/2020,Kortright Centre for Conservation,5,90,RD
+2020,solo survey,pilot,12,9/25/2020,Kortright Centre for Conservation,4,75,RD
+2020,solo survey,pilot,13,9/26/2020,Claireville Conservation Area,3,50,RD
+2020,solo survey,pilot,14,9/26/2020,Claireville Conservation Area,3,50,RD
+2020,solo survey,pilot,15,9/26/2020,Claireville Conservation Area,2,10,RD
+2020,solo survey,pilot,16,9/26/2020,Claireville Conservation Area,1,10,RD
+2020,solo survey,pilot,17,9/26/2020,Claireville Conservation Area,4,50,RD
+2020,solo survey,pilot,18,9/26/2020,Claireville Conservation Area,5,75,RD
+2020,solo survey,pilot,19,9/26/2020,Claireville Conservation Area,3,25,RD
+2020,solo survey,pilot,20,9/26/2020,Claireville Conservation Area,3,40,RD
+2020,solo survey,pilot,1,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,3,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,4,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,4,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,4,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,5,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,5,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,6,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,6,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,7,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,7,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,8,09/18/2020,HILL,,40,AN
+2020,solo survey,pilot,8,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,8,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,9,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,9,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,10,09/18/2020,HILL,,7,AN
+2020,solo survey,pilot,10,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,10,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,11,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,11,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,11,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,11,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,12,09/18/2020,HILL,,15,AN
+2020,solo survey,pilot,13,09/18/2020,HILL,,20,AN
+2020,solo survey,pilot,13,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,14,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,14,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,14,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,14,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,15,09/18/2020,HILL,,25,AN
+2020,solo survey,pilot,15,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,15,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,15,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,16,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,16,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,16,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,17,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,17,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,17,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,17,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,18,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,18,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,18,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,18,09/18/2020,HILL,,7,AN
+2020,solo survey,pilot,19,09/18/2020,HILL,,20,AN
+2020,solo survey,pilot,19,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,19,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,20,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,20,09/18/2020,HILL,,20,AN
+2020,solo survey,pilot,20,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,20,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,20,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,21,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,21,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,21,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,21,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,21,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,22,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,22,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,22,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,22,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,23,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,23,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,23,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,24,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,24,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,25,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,25,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,25,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,26,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,26,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,27,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,28,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,28,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,28,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,29,09/18/2020,HILL,,15,AN
+2020,solo survey,pilot,29,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,29,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,30,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,30,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,30,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,31,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,31,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,31,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,31,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,32,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,32,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,33,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,33,09/18/2020,HILL,,7,AN
+2020,solo survey,pilot,33,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,34,09/18/2020,HILL,,20,AN
+2020,solo survey,pilot,34,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,35,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,36,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,37,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,37,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,37,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,38,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,38,09/18/2020,HILL,,7,AN
+2020,solo survey,pilot,38,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,39,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,39,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,40,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,40,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,40,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,41,09/18/2020,HiLL,,40,AN
+2020,solo survey,pilot,41,09/18/2020,HiLL,,10,AN
+2020,solo survey,pilot,41,09/18/2020,HiLL,,3,AN
+2020,solo survey,pilot,41,09/18/2020,HiLL,,1,AN
+2020,solo survey,pilot,42,09/18/2020,HILL,,30,AN
+2020,solo survey,pilot,42,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,42,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,42,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,43,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,43,09/18/2020,HILL,,60,AN
+2020,solo survey,pilot,43,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,43,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,44,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,44,09/18/2020,HILL,,60,AN
+2020,solo survey,pilot,44,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,44,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,44,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,45,09/18/2020,HILL,,40,AN
+2020,solo survey,pilot,45,09/18/2020,HILL,,2,AN
+2020,solo survey,pilot,45,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,46,09/18/2020,HILL,,20,AN
+2020,solo survey,pilot,46,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,46,09/18/2020,HILL,,10,AN
+2020,solo survey,pilot,46,09/18/2020,HILL,,5,AN
+2020,solo survey,pilot,46,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,47,09/18/2020,HILL,,50,AN
+2020,solo survey,pilot,47,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,48,09/18/2020,HILL,,45,AN
+2020,solo survey,pilot,48,09/18/2020,HILL,,3,AN
+2020,solo survey,pilot,49,09/18/2020,HILL,,75,AN
+2020,solo survey,pilot,49,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,49,09/18/2020,HILL,,1,AN
+2020,solo survey,pilot,50,09/18/2020,HILL,,60,AN
+2020,solo survey,pilot,1,09/13/2020,Village Green Park,2,20,RD
+2020,solo survey,pilot,2,09/13/2020,Village Green Park,1,30,RD
+2020,solo survey,pilot,3,09/13/2020,Village Green Park,3,25,RD
+2020,solo survey,pilot,4,09/13/2020,Village Green Park,1,10,RD
+2020,solo survey,pilot,5,09/13/2020,Village Green Park,1,30,RD
+2020,solo survey,pilot,6,09/13/2020,Village Green Park,2,20,RD
+2020,solo survey,pilot,7,09/13/2020,Village Green Park,1,10,RD
+2020,solo survey,pilot,8,09/13/2020,Village Green Park,1,10,RD
+2020,solo survey,pilot,9,09/13/2020,Village Green Park,1,10,RD
+2020,solo survey,pilot,10,09/13/2020,Village Green Park,2,10,RD
+2020,solo survey,pilot,11,09/13/2020,Village Green Park,2,20,RD
+2020,solo survey,pilot,12,09/13/2020,Village Green Park,3,10,RD
+2020,solo survey,pilot,13,09/13/2020,Village Green Park,1,30,RD
+2020,solo survey,pilot,14,09/14/2020,Daniel Malecki Park,3,25,RD
+2020,solo survey,pilot,15,09/14/2020,Daniel Malecki Park,4,30,RD
+2020,solo survey,pilot,16,09/14/2020,Daniel Malecki Park,3,40,RD
+2020,solo survey,pilot,17,09/14/2020,Daniel Malecki Park,4,25,RD
+2020,solo survey,pilot,18,09/14/2020,Daniel Malecki Park,4,30,RD
+2020,solo survey,pilot,19,09/14/2020,Daniel Malecki Park,3,50,RD
+2020,solo survey,pilot,20,09/14/2020,Daniel Malecki Park,3,30,RD
+2020,solo survey,pilot,21,09/14/2020,Daniel Malecki Park,2,25,RD
+2020,solo survey,pilot,22,09/14/2020,Daniel Malecki Park,3,40,RD
+2020,solo survey,pilot,23,09/14/2020,Daniel Malecki Park,4,30,RD
+2020,solo survey,pilot,24,09/14/2020,Daniel Malecki Park,4,30,RD
+2020,solo survey,pilot,25,09/14/2020,Daniel Malecki Park,3,40,RD
+2020,solo survey,pilot,26,09/14/2020,Daniel Malecki Park,3,50,RD
+2020,solo survey,pilot,27,09/15/2020,Michael Fitzgerad Parkette,4,75,RD
+2020,solo survey,pilot,28,09/15/2020,Michael Fitzgerad Parkette,4,50,RD
+2020,solo survey,pilot,29,09/15/2020,Michael Fitzgerad Parkette,4,50,RD
+2020,solo survey,pilot,30,09/15/2020,Michael Fitzgerad Parkette,5,75,RD
+2020,solo survey,pilot,31,09/15/2020,Michael Fitzgerad Parkette,3,55,RD
+2020,solo survey,pilot,32,09/15/2020,Michael Fitzgerad Parkette,5,60,RD
+2020,solo survey,pilot,33,09/15/2020,Michael Fitzgerad Parkette,4,50,RD
+2020,solo survey,pilot,34,09/15/2020,Michael Fitzgerad Parkette,4,75,RD
+2020,solo survey,pilot,35,09/15/2020,Michael Fitzgerad Parkette,5,70,RD
+2020,solo survey,pilot,36,09/15/2020,Michael Fitzgerad Parkette,4,50,RD
+2020,solo survey,pilot,37,09/15/2020,Michael Fitzgerad Parkette,5,60,RD
+2020,solo survey,pilot,38,09/15/2020,Michael Fitzgerad Parkette,3,75,RD
+2020,solo survey,pilot,39,09/15/2020,Michael Fitzgerad Parkette,4,75,RD
