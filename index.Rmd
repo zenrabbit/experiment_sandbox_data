@@ -15,7 +15,13 @@ A set of remote exercises exploring experimental design for the life sciences. A
 
 Attribution  
 CJL designed the experiments.  
-Students in course offering collectedkn innovated, and published individual, primary datasets.  
+Students in course offering collected, innovated, and published individual, primary datasets.  
 MZ, MO, and CJL reviewed the compiled data.
 
-### Data
+### Data  
+Data checks.  
+```{r}
+library(tidyverse)  
+
+```
+
