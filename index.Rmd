@@ -18,10 +18,16 @@ CJL designed the experiments.
 Students in course offering collected, innovated, and published individual, primary datasets.  
 MZ, MO, and CJL reviewed the compiled data.
 
+Metadata  
+
+
 ### Data  
 Data checks.  
 ```{r}
 library(tidyverse)  
+bioblitz <- read_csv("data/designcraft4expts_bioblitz.csv")
+
+
 
 ```
 
