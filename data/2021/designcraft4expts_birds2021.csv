@@ -1,414 +1,385 @@
-"year","experiment","source","rep","date","location","species","frequency","behaviour","initials","doi"
-2021,"balcony birdwatching","full",35,2021-10-06,"Sao Paolo, Brazil","Coragyps atratus","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",87,2021-10-08,"Sao Paolo, Brazil","Coragyps atratus","3","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",112,2021-10-10,"Sao Paolo, Brazil","Coragyps atratus","3","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",31,2021-10-06,"Sao Paolo, Brazil","Pygochelidon cyanoleuca","2","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",39,2021-10-06,"Sao Paolo, Brazil","Pygochelidon cyanoleuca","2","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",61,2021-10-07,"Sao Paolo, Brazil","Pygochelidon cyanoleuca","2","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",64,2021-10-07,"Sao Paolo, Brazil","Pygochelidon cyanoleuca","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",85,2021-10-08,"Sao Paolo, Brazil","Pygochelidon cyanoleuca","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",88,2021-10-08,"Sao Paolo, Brazil","Pygochelidon cyanoleuca","Group","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",104,2021-10-08,"Sao Paolo, Brazil","Pygochelidon cyanoleuca","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",107,2021-10-10,"Sao Paolo, Brazil","Pygochelidon cyanoleuca","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",63,2021-10-07,"Sao Paolo, Brazil","Forpus xanthopterygius","2","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",79,2021-10-07,"Sao Paolo, Brazil","Forpus xanthopterygius","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",2,2021-10-05,"Sao Paolo, Brazil","Zenaida auriculata","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",14,2021-10-05,"Sao Paolo, Brazil","Zenaida auriculata","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",32,2021-10-06,"Sao Paolo, Brazil","Zenaida auriculata","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",58,2021-10-07,"Sao Paolo, Brazil","Zenaida auriculata","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",111,2021-10-10,"Sao Paolo, Brazil","Zenaida auriculata","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",114,2021-10-10,"Sao Paolo, Brazil","Zenaida auriculata","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",3,2021-10-05,"Sao Paolo, Brazil","Leptotila rufaxila","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",115,2021-10-10,"Sao Paolo, Brazil","Leptotila rufaxila","4","foraging","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",13,2021-10-05,"Sao Paolo, Brazil","Pitangus sulphuratus","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",76,2021-10-07,"Sao Paolo, Brazil","Pitangus sulphuratus","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",84,2021-10-08,"Sao Paolo, Brazil","Pitangus sulphuratus","4","intraspecific interaction","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",97,2021-10-08,"Sao Paolo, Brazil","Pitangus sulphuratus","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",100,2021-10-08,"Sao Paolo, Brazil","Pitangus sulphuratus","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",118,2021-10-10,"Sao Paolo, Brazil","Pitangus sulphuratus","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",127,2021-10-10,"Sao Paolo, Brazil","Pitangus sulphuratus","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",11,2021-10-05,"Sao Paolo, Brazil","Troglodytes aedon","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",43,2021-10-06,"Sao Paolo, Brazil","Troglodytes aedon","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",92,2021-10-08,"Sao Paolo, Brazil","Troglodytes aedon","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",122,2021-10-10,"Sao Paolo, Brazil","Troglodytes aedon","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",29,2021-10-06,"Sao Paolo, Brazil","Turdus leucomelas","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",89,2021-10-08,"Sao Paolo, Brazil","Turdus leucomelas","3","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",113,2021-10-10,"Sao Paolo, Brazil","Turdus leucomelas","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",7,2021-10-05,"Sao Paolo, Brazil","Brotogeris tirica","Group","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",10,2021-10-05,"Sao Paolo, Brazil","Brotogeris tirica","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",22,2021-10-05,"Sao Paolo, Brazil","Brotogeris tirica","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",25,2021-10-05,"Sao Paolo, Brazil","Brotogeris tirica","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",34,2021-10-06,"Sao Paolo, Brazil","Brotogeris tirica","Group","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",38,2021-10-06,"Sao Paolo, Brazil","Brotogeris tirica","Group","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",45,2021-10-06,"Sao Paolo, Brazil","Brotogeris tirica","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",48,2021-10-06,"Sao Paolo, Brazil","Brotogeris tirica","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",54,2021-10-06,"Sao Paolo, Brazil","Brotogeris tirica","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",62,2021-10-07,"Sao Paolo, Brazil","Brotogeris tirica","Group","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",72,2021-10-07,"Sao Paolo, Brazil","Brotogeris tirica","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",74,2021-10-07,"Sao Paolo, Brazil","Brotogeris tirica","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",86,2021-10-08,"Sao Paolo, Brazil","Brotogeris tirica","Group","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",99,2021-10-08,"Sao Paolo, Brazil","Brotogeris tirica","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",109,2021-10-10,"Sao Paolo, Brazil","Brotogeris tirica","2","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",120,2021-10-10,"Sao Paolo, Brazil","Brotogeris tirica","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",70,2021-10-07,"Sao Paolo, Brazil","Columbina talpacoti","3","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",91,2021-10-08,"Sao Paolo, Brazil","Columbina talpacoti","2","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",4,2021-10-05,"Sao Paolo, Brazil","Turdus rufiventris","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",9,2021-10-05,"Sao Paolo, Brazil","Turdus rufiventris","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",19,2021-10-05,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",40,2021-10-06,"Sao Paolo, Brazil","Turdus rufiventris","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",44,2021-10-06,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",46,2021-10-06,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",50,2021-10-06,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",56,2021-10-06,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",59,2021-10-07,"Sao Paolo, Brazil","Turdus rufiventris","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",67,2021-10-07,"Sao Paolo, Brazil","Turdus rufiventris","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",73,2021-10-07,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",82,2021-10-07,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",93,2021-10-08,"Sao Paolo, Brazil","Turdus rufiventris","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",96,2021-10-08,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",98,2021-10-08,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",108,2021-10-10,"Sao Paolo, Brazil","Turdus rufiventris","1","foraging","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",117,2021-10-10,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",123,2021-10-10,"Sao Paolo, Brazil","Turdus rufiventris","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",1,2021-10-05,"Sao Paolo, Brazil","Funarius rufus","1","foraging","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",27,2021-10-05,"Sao Paolo, Brazil","Funarius rufus","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",51,2021-10-06,"Sao Paolo, Brazil","Funarius rufus","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",57,2021-10-06,"Sao Paolo, Brazil","Funarius rufus","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",69,2021-10-07,"Sao Paolo, Brazil","Funarius rufus","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",78,2021-10-07,"Sao Paolo, Brazil","Funarius rufus","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",103,2021-10-08,"Sao Paolo, Brazil","Funarius rufus","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",126,2021-10-10,"Sao Paolo, Brazil","Funarius rufus","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",5,2021-10-05,"Sao Paolo, Brazil","Thraupis sayaca","2","foraging","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",8,2021-10-05,"Sao Paolo, Brazil","Thraupis sayaca","3","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",12,2021-10-05,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",15,2021-10-05,"Sao Paolo, Brazil","Thraupis sayaca","3","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",18,2021-10-05,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",20,2021-10-05,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",23,2021-10-05,"Sao Paolo, Brazil","Thraupis sayaca","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",26,2021-10-05,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",28,2021-10-06,"Sao Paolo, Brazil","Thraupis sayaca","2","aggression","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",30,2021-10-06,"Sao Paolo, Brazil","Thraupis sayaca","3","foraging","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",33,2021-10-06,"Sao Paolo, Brazil","Thraupis sayaca","2","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",36,2021-10-06,"Sao Paolo, Brazil","Thraupis sayaca","1","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",41,2021-10-06,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",42,2021-10-06,"Sao Paolo, Brazil","Thraupis sayaca","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",47,2021-10-06,"Sao Paolo, Brazil","Thraupis sayaca","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",49,2021-10-06,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",55,2021-10-06,"Sao Paolo, Brazil","Thraupis sayaca","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",60,2021-10-07,"Sao Paolo, Brazil","Thraupis sayaca","2","perching and posturing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",68,2021-10-07,"Sao Paolo, Brazil","Thraupis sayaca","2","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",71,2021-10-07,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",75,2021-10-07,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",90,2021-10-08,"Sao Paolo, Brazil","Thraupis sayaca","2","inactive","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",94,2021-10-08,"Sao Paolo, Brazil","Thraupis sayaca","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",95,2021-10-08,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",106,2021-10-10,"Sao Paolo, Brazil","Thraupis sayaca","1","inactive","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",110,2021-10-10,"Sao Paolo, Brazil","Thraupis sayaca","2","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",119,2021-10-10,"Sao Paolo, Brazil","Thraupis sayaca","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",129,2021-10-10,"Sao Paolo, Brazil","Thraupis sayaca","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",17,2021-10-05,"Sao Paolo, Brazil","Amazona aestiva","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",21,2021-10-05,"Sao Paolo, Brazil","Amazona aestiva","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",24,2021-10-05,"Sao Paolo, Brazil","Amazona aestiva","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",65,2021-10-07,"Sao Paolo, Brazil","Amazona aestiva","1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",77,2021-10-07,"Sao Paolo, Brazil","Amazona aestiva","3","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",121,2021-10-10,"Sao Paolo, Brazil","Amazona aestiva","2","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",52,2021-10-06,"Sao Paolo, Brazil",NA,"1","inactive","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",53,2021-10-06,"Sao Paolo, Brazil",NA,"1","inactive","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",66,2021-10-07,"Sao Paolo, Brazil",NA,"3","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",83,2021-10-07,"Sao Paolo, Brazil",NA,"1","inactive","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",101,2021-10-08,"Sao Paolo, Brazil",NA,"1","inactive","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",102,2021-10-08,"Sao Paolo, Brazil",NA,"1","inactive","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",124,2021-10-10,"Sao Paolo, Brazil",NA,"X","inactive","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",125,2021-10-10,"Sao Paolo, Brazil",NA,"X","inactive","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",37,2021-10-06,"Sao Paolo, Brazil",NA,"1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",116,2021-10-10,"Sao Paolo, Brazil",NA,"1","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",81,2021-10-07,"Sao Paolo, Brazil","Picumnus cirratus","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",105,2021-10-08,"Sao Paolo, Brazil","Picumnus cirratus","1","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",6,2021-10-05,"Sao Paolo, Brazil","Psittacara leucophthalmus","Group","flying","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",16,2021-10-05,"Sao Paolo, Brazil","Psittacara leucophthalmus","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",80,2021-10-07,"Sao Paolo, Brazil","Psittacara leucophthalmus","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",128,2021-10-10,"Sao Paolo, Brazil","Psittacara leucophthalmus","Group","vocalizing","AAM","10.6084/m9.figshare.16785871"
-2021,"balcony birdwatching","full",12,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"1","flying","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",1,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"3","inactive","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",2,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"2","intraspecific interaction","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",3,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"3","foraging","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",4,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"5","foraging","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",5,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"4","foraging","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",6,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"3","foraging","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",7,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"2","inactive","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",8,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"1","swimming","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",10,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"1","perching and posturing","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",9,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"1","foraging","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",11,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,"1","perching and posturing","DL","10.6084/m9.figshare.16799623"
-2021,"balcony birdwatching","full",11,2021-09-20,"Claireville Conservation, Brampton, Ontario","Spinus tristis","6","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",12,2021-09-20,"Claireville Conservation, Brampton, Ontario","Spinus tristis","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",49,2021-09-25,"Toogood Pond, Markham, Ontario","Spinus tristis","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",50,2021-09-25,"Toogood Pond, Markham, Ontario","Spinus tristis","2","none","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",51,2021-09-25,"Toogood Pond, Markham, Ontario","Spinus tristis","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",70,2021-09-28,"Simcoe Point, Pickering, Ontario","Spinus tristis","2","none","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",71,2021-09-28,"Simcoe Point, Pickering, Ontario","Spinus tristis","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",88,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Spinus tristis","1","none","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",89,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Spinus tristis","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",30,2021-09-23,"Rouge Park, Scarborough, Ontario","Turdus migratorius ","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",46,2021-09-25,"Toogood Pond, Markham, Ontario","Turdus migratorius ","3","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",47,2021-09-25,"Toogood Pond, Markham, Ontario","Turdus migratorius ","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",62,2021-09-28,"Simcoe Point, Pickering, Ontario","Turdus migratorius ","4","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",82,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Turdus migratorius ","2","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",83,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Turdus migratorius ","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",105,2021-10-07,"Rouge Park, Scarborough, Ontario","Turdus migratorius ","4","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",106,2021-10-07,"Rouge Park, Scarborough, Ontario","Turdus migratorius ","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",107,2021-10-07,"Rouge Park, Scarborough, Ontario","Turdus migratorius ","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",10,2021-09-20,"Claireville Conservation, Brampton, Ontario","Poecile atricapillus","4","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",10,2021-09-20,"Claireville Conservation, Brampton, Ontario","Poecile atricapillus","4","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",10,2021-09-20,"Claireville Conservation, Brampton, Ontario","Poecile atricapillus","4","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",10,2021-09-20,"Claireville Conservation, Brampton, Ontario","Poecile atricapillus","4","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",10,2021-09-20,"Claireville Conservation, Brampton, Ontario","Poecile atricapillus","4","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",48,2021-09-25,"Toogood Pond, Markham, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",48,2021-09-25,"Toogood Pond, Markham, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",48,2021-09-25,"Toogood Pond, Markham, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",48,2021-09-25,"Toogood Pond, Markham, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",48,2021-09-25,"Toogood Pond, Markham, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",69,2021-09-28,"Simcoe Point, Pickering, Ontario","Poecile atricapillus","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",69,2021-09-28,"Simcoe Point, Pickering, Ontario","Poecile atricapillus","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",69,2021-09-28,"Simcoe Point, Pickering, Ontario","Poecile atricapillus","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",69,2021-09-28,"Simcoe Point, Pickering, Ontario","Poecile atricapillus","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",69,2021-09-28,"Simcoe Point, Pickering, Ontario","Poecile atricapillus","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",84,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","3","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",84,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","3","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",84,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","3","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",84,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","3","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",84,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","3","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",85,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",85,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",85,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",85,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",85,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",86,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",86,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",86,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",86,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",86,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Poecile atricapillus","1","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",104,2021-10-07,"Rouge Park, Scarborough, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",104,2021-10-07,"Rouge Park, Scarborough, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",104,2021-10-07,"Rouge Park, Scarborough, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",104,2021-10-07,"Rouge Park, Scarborough, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",104,2021-10-07,"Rouge Park, Scarborough, Ontario","Poecile atricapillus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",22,2021-09-23,"Rouge Park, Scarborough, Ontario","Cyanocitta cristata","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",22,2021-09-23,"Rouge Park, Scarborough, Ontario","Cyanocitta cristata","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",22,2021-09-23,"Rouge Park, Scarborough, Ontario","Cyanocitta cristata","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",23,2021-09-23,"Rouge Park, Scarborough, Ontario","Cyanocitta cristata","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",23,2021-09-23,"Rouge Park, Scarborough, Ontario","Cyanocitta cristata","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",23,2021-09-23,"Rouge Park, Scarborough, Ontario","Cyanocitta cristata","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",55,2021-09-28,"Simcoe Point, Pickering, Ontario","Cyanocitta cristata","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",55,2021-09-28,"Simcoe Point, Pickering, Ontario","Cyanocitta cristata","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",55,2021-09-28,"Simcoe Point, Pickering, Ontario","Cyanocitta cristata","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",56,2021-09-28,"Simcoe Point, Pickering, Ontario","Cyanocitta cristata","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",56,2021-09-28,"Simcoe Point, Pickering, Ontario","Cyanocitta cristata","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",56,2021-09-28,"Simcoe Point, Pickering, Ontario","Cyanocitta cristata","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",93,2021-10-07,"Rouge Park, Scarborough, Ontario","Cyanocitta cristata","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",93,2021-10-07,"Rouge Park, Scarborough, Ontario","Cyanocitta cristata","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",93,2021-10-07,"Rouge Park, Scarborough, Ontario","Cyanocitta cristata","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",32,2021-09-23,"Rouge Park, Scarborough, Ontario","Euphagus cyanocephalus","2","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",33,2021-09-23,"Rouge Park, Scarborough, Ontario","Euphagus cyanocephalus","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",72,2021-09-28,"Simcoe Point, Pickering, Ontario","Euphagus cyanocephalus","3","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",73,2021-09-28,"Simcoe Point, Pickering, Ontario","Euphagus cyanocephalus","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",74,2021-09-28,"Simcoe Point, Pickering, Ontario","Euphagus cyanocephalus","2","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",19,2021-09-23,"Rouge Park, Scarborough, Ontario","Branta canadensis","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",7,2021-09-20,"Claireville Conservation, Brampton, Ontario","Branta canadensis","9","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",18,2021-09-23,"Rouge Park, Scarborough, Ontario","Branta canadensis","10","swimming","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",44,2021-09-25,"Toogood Pond, Markham, Ontario","Branta canadensis","8","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",45,2021-09-25,"Toogood Pond, Markham, Ontario","Branta canadensis","4","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",57,2021-09-28,"Simcoe Point, Pickering, Ontario","Branta canadensis","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",58,2021-09-28,"Simcoe Point, Pickering, Ontario","Branta canadensis","4","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",75,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Branta canadensis","10","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",100,2021-10-07,"Rouge Park, Scarborough, Ontario","Branta canadensis","2","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",101,2021-10-07,"Rouge Park, Scarborough, Ontario","Branta canadensis","4","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",16,2021-09-20,"Claireville Conservation, Brampton, Ontario","Corvus corax","2","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",17,2021-09-20,"Claireville Conservation, Brampton, Ontario","Corvus corax","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",34,2021-09-23,"Rouge Park, Scarborough, Ontario","Corvus corax","3","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",35,2021-09-23,"Rouge Park, Scarborough, Ontario","Corvus corax","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",90,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Corvus corax","1","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",91,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Corvus corax","4","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",92,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Corvus corax","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",24,2021-09-23,"Rouge Park, Scarborough, Ontario","Ardea herodias","3","swimming","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",36,2021-09-23,"Rouge Park, Scarborough, Ontario","Ardea herodias","3","swimming","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",59,2021-09-28,"Simcoe Point, Pickering, Ontario","Ardea herodias","5","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",60,2021-09-28,"Simcoe Point, Pickering, Ontario","Ardea herodias","3","swimming","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",61,2021-09-28,"Simcoe Point, Pickering, Ontario","Ardea herodias","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",108,2021-10-07,"Rouge Park, Scarborough, Ontario","Ardea herodias","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",109,2021-10-07,"Rouge Park, Scarborough, Ontario","Ardea herodias","3","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",4,2021-09-20,"Claireville Conservation, Brampton, Ontario","Passer domesticus","2","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",5,2021-09-20,"Claireville Conservation, Brampton, Ontario","Passer domesticus","4","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",20,2021-09-23,"Rouge Park, Scarborough, Ontario","Passer domesticus","2","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",21,2021-09-23,"Rouge Park, Scarborough, Ontario","Passer domesticus","3","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",39,2021-09-25,"Toogood Pond, Markham, Ontario","Passer domesticus","3","none","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",40,2021-09-25,"Toogood Pond, Markham, Ontario","Passer domesticus","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",41,2021-09-25,"Toogood Pond, Markham, Ontario","Passer domesticus","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",63,2021-09-28,"Simcoe Point, Pickering, Ontario","Passer domesticus","3","none","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",64,2021-09-28,"Simcoe Point, Pickering, Ontario","Passer domesticus","2","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",65,2021-09-28,"Simcoe Point, Pickering, Ontario","Passer domesticus","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",81,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Passer domesticus","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",102,2021-10-07,"Rouge Park, Scarborough, Ontario","Passer domesticus","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",103,2021-10-07,"Rouge Park, Scarborough, Ontario","Passer domesticus","2","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",6,2021-09-20,"Claireville Conservation, Brampton, Ontario","Archilochus colubris","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",31,2021-09-23,"Rouge Park, Scarborough, Ontario","Archilochus colubris","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",54,2021-09-28,"Simcoe Point, Pickering, Ontario","Archilochus colubris","3","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",87,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Archilochus colubris","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",110,2021-10-07,"Rouge Park, Scarborough, Ontario","Archilochus colubris","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",13,2021-09-20,"Claireville Conservation, Brampton, Ontario","Anas platyrhynchos","2","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",14,2021-09-20,"Claireville Conservation, Brampton, Ontario","Anas platyrhynchos","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",15,2021-09-20,"Claireville Conservation, Brampton, Ontario","Anas platyrhynchos","3","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",52,2021-09-25,"Toogood Pond, Markham, Ontario","Anas platyrhynchos","2","swimming","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",53,2021-09-25,"Toogood Pond, Markham, Ontario","Anas platyrhynchos","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",1,2021-09-20,"Claireville Conservation, Brampton, Ontario","Larus smithsonianus","10","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",2,2021-09-20,"Claireville Conservation, Brampton, Ontario","Larus smithsonianus","3","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",3,2021-09-20,"Claireville Conservation, Brampton, Ontario","Larus smithsonianus","6","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",28,2021-09-23,"Rouge Park, Scarborough, Ontario","Larus smithsonianus","7","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",29,2021-09-23,"Rouge Park, Scarborough, Ontario","Larus smithsonianus","8","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",37,2021-09-25,"Toogood Pond, Markham, Ontario","Larus smithsonianus","7","swimming","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",38,2021-09-25,"Toogood Pond, Markham, Ontario","Larus smithsonianus","4","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",76,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Larus smithsonianus","8","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",77,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Larus smithsonianus","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",78,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Larus smithsonianus","2","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",94,2021-10-07,"Rouge Park, Scarborough, Ontario","Larus smithsonianus","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",95,2021-10-07,"Rouge Park, Scarborough, Ontario","Larus smithsonianus","4","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",96,2021-10-07,"Rouge Park, Scarborough, Ontario","Larus smithsonianus","2","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",97,2021-10-07,"Rouge Park, Scarborough, Ontario","Larus smithsonianus","4","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",8,2021-09-20,"Claireville Conservation, Brampton, Ontario","Setophaga castanea","5","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",9,2021-09-20,"Claireville Conservation, Brampton, Ontario","Setophaga castanea","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",25,2021-09-23,"Rouge Park, Scarborough, Ontario","Setophaga castanea","4","none","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",26,2021-09-23,"Rouge Park, Scarborough, Ontario","Setophaga castanea","2","aggression","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",27,2021-09-23,"Rouge Park, Scarborough, Ontario","Setophaga castanea","1","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",42,2021-09-25,"Toogood Pond, Markham, Ontario","Setophaga castanea","1","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",43,2021-09-25,"Toogood Pond, Markham, Ontario","Setophaga castanea","5","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",66,2021-09-28,"Simcoe Point, Pickering, Ontario","Setophaga castanea","3","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",67,2021-09-28,"Simcoe Point, Pickering, Ontario","Setophaga castanea","3","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",68,2021-09-28,"Simcoe Point, Pickering, Ontario","Setophaga castanea","1","foraging","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",79,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Setophaga castanea","4","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",80,2021-10-03,"Coxwell Ravine Park, East York, Ontario","Setophaga castanea","2","none","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",98,2021-10-07,"Rouge Park, Scarborough, Ontario","Setophaga castanea","3","flying","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",99,2021-10-07,"Rouge Park, Scarborough, Ontario","Setophaga castanea","3","inactive","JK","10.6084/m9.figshare.16804525"
-2021,"balcony birdwatching","full",4,2021-09-30,"High Park, Toronto","Cyanocitta cristata","1","foraging","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",4,2021-09-30,"High Park, Toronto","Cyanocitta cristata","1","foraging","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",4,2021-09-30,"High Park, Toronto","Cyanocitta cristata","1","foraging","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",1,2021-09-30,"High Park, Toronto","Branta canadensis","3","vocalizing","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",11,2021-10-01,"Kortright Centre Trail, Vaughan","Branta canadensis","3","swimming","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",16,2021-10-01,"Kortright Centre Trail, Vaughan","Branta canadensis","2","perching","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",24,2021-10-02,"Cunningham Pond, Vaughan","Branta canadensis","3","swimming","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",29,2021-10-02,"Cunningham Pond, Vaughan","Branta canadensis","1","perching","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",6,2021-09-30,"High Park, Toronto",NA,"1","foraging","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",14,2021-10-01,"Kortright Centre Trail, Vaughan","Lophodytes cucullatus","2","foraging","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",19,2021-10-01,"Kortright Centre Trail, Vaughan","Lophodytes cucullatus","1","swimming","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",2,2021-09-30,"High Park, Toronto","Anas platyrhynchos","16","foraging","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",9,2021-09-30,"High Park, Toronto","Anas platyrhynchos","5","swimming","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",13,2021-10-01,"Kortright Centre Trail, Vaughan","Anas platyrhynchos","9","swimming","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",17,2021-10-01,"Kortright Centre Trail, Vaughan","Anas platyrhynchos","5","perching","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",23,2021-10-02,"Cunningham Pond, Vaughan","Anas platyrhynchos","11","swimming","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",25,2021-10-02,"Cunningham Pond, Vaughan","Anas platyrhynchos","8","perching","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",26,2021-10-02,"Cunningham Pond, Vaughan","Anas platyrhynchos","8","foraging","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",7,2021-09-30,"High Park, Toronto",NA,"1","perching","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",5,2021-09-30,"High Park, Toronto","Larus delawarensis","2","walking","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",21,2021-10-02,"Cunningham Pond, Vaughan","Larus delawarensis","2","flying","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",28,2021-10-02,"Cunningham Pond, Vaughan","Larus delawarensis","1","perching","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",30,2021-10-02,"Cunningham Pond, Vaughan","Larus delawarensis","1","foraging","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",8,2021-09-30,"High Park, Toronto","Melospiza melodia","2","flying","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",22,2021-10-02,"Cunningham Pond, Vaughan","Melospiza melodia","3","flying","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",27,2021-10-02,"Cunningham Pond, Vaughan","Melospiza melodia","2","perching","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",15,2021-10-01,"Kortright Centre Trail, Vaughan","Cathartes aura","2","flying","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",18,2021-10-01,"Kortright Centre Trail, Vaughan","Cathartes aura","3","flying","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",20,2021-10-01,"Kortright Centre Trail, Vaughan","Cathartes aura","1","foraging","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",3,2021-09-30,"High Park, Toronto","Aix sponsa","5","swimming","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",10,2021-09-30,"High Park, Toronto","Aix sponsa","2","flying","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",12,2021-10-01,"Kortright Centre Trail, Vaughan","Aix sponsa","1","vocalizing","NK","10.6084/m9.figshare.16807873"
-2021,"balcony birdwatching","full",2,2021-09-16,"Atkinson building, York University, Toronto","Turdus migratorius","1","inactive","NR",NA
-2021,"balcony birdwatching","full",3,2021-09-16,"Atkinson building, York University, Toronto","Turdus migratorius","1","vocalizing","NR",NA
-2021,"balcony birdwatching","full",11,2021-09-17,"Atkinson building, York University, Toronto","Turdus migratorius","1","inactive","NR",NA
-2021,"balcony birdwatching","full",19,2021-09-23,"Atkinson building, York University, Toronto","Turdus migratorius","1","inactive","NR",NA
-2021,"balcony birdwatching","full",6,2021-09-16,"Atkinson building, York University, Toronto","Setophaga castanea","1","perching and posturing","NR",NA
-2021,"balcony birdwatching","full",8,2021-09-17,"Atkinson building, York University, Toronto","Setophaga castanea","1","perching and posturing","NR",NA
-2021,"balcony birdwatching","full",17,2021-09-21,"Atkinson building, York University, Toronto","Setophaga castanea","1","flying","NR",NA
-2021,"balcony birdwatching","full",22,2021-09-24,"Atkinson building, York University, Toronto","Setophaga castanea","1","foraging","NR",NA
-2021,"balcony birdwatching","full",4,2021-09-16,"Atkinson building, York University, Toronto","Poecile atricapillus","1","flying","NR",NA
-2021,"balcony birdwatching","full",4,2021-09-16,"Atkinson building, York University, Toronto","Poecile atricapillus","1","flying","NR",NA
-2021,"balcony birdwatching","full",4,2021-09-16,"Atkinson building, York University, Toronto","Poecile atricapillus","1","flying","NR",NA
-2021,"balcony birdwatching","full",4,2021-09-16,"Atkinson building, York University, Toronto","Poecile atricapillus","1","flying","NR",NA
-2021,"balcony birdwatching","full",4,2021-09-16,"Atkinson building, York University, Toronto","Poecile atricapillus","1","flying","NR",NA
-2021,"balcony birdwatching","full",1,2021-09-16,"Atkinson building, York University, Toronto","Cyanocitta cristata","2","vocalizing","NR",NA
-2021,"balcony birdwatching","full",1,2021-09-16,"Atkinson building, York University, Toronto","Cyanocitta cristata","2","vocalizing","NR",NA
-2021,"balcony birdwatching","full",1,2021-09-16,"Atkinson building, York University, Toronto","Cyanocitta cristata","2","vocalizing","NR",NA
-2021,"balcony birdwatching","full",12,2021-09-20,"Atkinson building, York University, Toronto","Cyanocitta cristata","1","vocalizing","NR",NA
-2021,"balcony birdwatching","full",12,2021-09-20,"Atkinson building, York University, Toronto","Cyanocitta cristata","1","vocalizing","NR",NA
-2021,"balcony birdwatching","full",12,2021-09-20,"Atkinson building, York University, Toronto","Cyanocitta cristata","1","vocalizing","NR",NA
-2021,"balcony birdwatching","full",21,2021-09-23,"Atkinson building, York University, Toronto","Cyanocitta cristata","1","vocalizing","NR",NA
-2021,"balcony birdwatching","full",21,2021-09-23,"Atkinson building, York University, Toronto","Cyanocitta cristata","1","vocalizing","NR",NA
-2021,"balcony birdwatching","full",21,2021-09-23,"Atkinson building, York University, Toronto","Cyanocitta cristata","1","vocalizing","NR",NA
-2021,"balcony birdwatching","full",5,2021-09-16,"Atkinson building, York University, Toronto","Passer domesticus","16","foraging","NR",NA
-2021,"balcony birdwatching","full",9,2021-09-17,"Atkinson building, York University, Toronto","Passer domesticus","13","foraging","NR",NA
-2021,"balcony birdwatching","full",13,2021-09-20,"Atkinson building, York University, Toronto","Passer domesticus","15","foraging","NR",NA
-2021,"balcony birdwatching","full",15,2021-09-21,"Atkinson building, York University, Toronto","Passer domesticus","15","foraging","NR",NA
-2021,"balcony birdwatching","full",18,2021-09-22,"Atkinson building, York University, Toronto","Passer domesticus","15","foraging","NR",NA
-2021,"balcony birdwatching","full",20,2021-09-23,"Atkinson building, York University, Toronto","Passer domesticus","15","foraging","NR",NA
-2021,"balcony birdwatching","full",23,2021-09-24,"Atkinson building, York University, Toronto","Passer domesticus","1","flying","NR",NA
-2021,"balcony birdwatching","full",7,2021-09-16,"Atkinson building, York University, Toronto","Cardinalis cardinalis","1","vocalizing","NR",NA
-2021,"balcony birdwatching","full",10,2021-09-17,"Atkinson building, York University, Toronto","Cardinalis cardinalis","1","perching and posturing","NR",NA
-2021,"balcony birdwatching","full",16,2021-09-21,"Atkinson building, York University, Toronto","Cardinalis cardinalis","1","vocalizing","NR",NA
-2021,"balcony birdwatching","full",14,2021-09-20,"Atkinson building, York University, Toronto","Cathartes aura","2","flying","NR",NA
-2021,"balcony birdwatching","full",1,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","3","intraspecific interaction","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",2,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","3","flying","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",3,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","2","foraging","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",4,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","1","foraging","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",5,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","1","perching and posturing","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",6,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","3","flying","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",7,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","2","perching and posturing","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",8,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","4","none","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",9,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","1","foraging","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",10,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","2","inactive","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",11,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","10","none","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",12,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","2","foraging","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",13,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","8","flying","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",14,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","5","perching and posturing","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",15,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario","Passer domesticus","3","none","QK","10.6084/m9.figshare.16807204"
-2021,"balcony birdwatching","full",15,2021-10-11,"Holland Marsh, Simcoe, Ontario","Anas Rubripes","1","swimming","SA",NA
-2021,"balcony birdwatching","full",10,2021-10-10,"Holland Landing Prairie, Simcoe","Corvus Brachyrhynchos","1","perching and posturing","SA",NA
-2021,"balcony birdwatching","full",4,2021-10-08,"Scanlon Creek, Simcoe, Ontario","Poecile Atricapillus","2","swimming","SA",NA
-2021,"balcony birdwatching","full",17,2021-10-11,"Holland Marsh, Simcoe, Ontario","Spatula Discors","2","flying","SA",NA
-2021,"balcony birdwatching","full",3,2021-10-08,"Scanlon Creek, Simcoe, Ontario","Cyanocitta Cristata","4","vocalizing","SA",NA
-2021,"balcony birdwatching","full",1,2021-10-07,"Sewage Lagoons, Schomberg","Branta Canadensis","2","perching","SA",NA
-2021,"balcony birdwatching","full",7,2021-10-09,"Tom Taylor Trail, Newmarket","Branta Canadensis","3","perching","SA",NA
-2021,"balcony birdwatching","full",18,2021-10-11,"Holland Marsh, Simcoe, Ontario","Branta Canadensis","4","inactive","SA",NA
-2021,"balcony birdwatching","full",20,2021-10-11,"Holland Marsh, Simcoe, Ontario","Anas Crecca","2","perching and posturing","SA",NA
-2021,"balcony birdwatching","full",5,2021-10-08,"Scanlon Creek, Simcoe, Ontario","Dryobates Villosus","2","flying","SA",NA
-2021,"balcony birdwatching","full",12,2021-10-10,"Holland Landing Prairie, Simcoe","Dryobates Villosus","7","flying","SA",NA
-2021,"balcony birdwatching","full",14,2021-10-10,"Holland Landing Prairie, Simcoe","Passer domesticus","12","foraging","SA",NA
-2021,"balcony birdwatching","full",2,2021-10-07,"Sewage Lagoons, Schomberg","Anas Platyrhynchos","7","swimming","SA",NA
-2021,"balcony birdwatching","full",16,2021-10-11,"Holland Marsh, Simcoe, Ontario","Anas Platyrhynchos","10","swimming","SA",NA
-2021,"balcony birdwatching","full",8,2021-10-09,"Tom Taylor Trail, Newmarket","Anas Platyrhynchos","10","swimming","SA",NA
-2021,"balcony birdwatching","full",9,2021-10-09,"Tom Taylor Trail, Newmarket","Zenaida Macroura","6","vocalizing","SA",NA
-2021,"balcony birdwatching","full",13,2021-10-10,"Holland Landing Prairie, Simcoe","Melanerpes Carolinus","12","flying","SA",NA
-2021,"balcony birdwatching","full",6,2021-10-08,"Scanlon Creek, Simcoe, Ontario","Corthylio Calendula","1","flying","SA",NA
-2021,"balcony birdwatching","full",11,2021-10-10,"Holland Landing Prairie, Simcoe","Cathartes Aura","2","inactive","SA",NA
-2021,"balcony birdwatching","full",19,2021-10-11,"Holland Marsh, Simcoe, Ontario","Aix Sponsa","4","swimming","SA",NA
-2021,"balcony birdwatching","full",1,2021-09-12,"Elmcreek park","Spinus tristis","2","perching and posturing","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",2,2021-09-12,"Elmcreek park","Anas boschas","10","swimming","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",3,2021-09-12,"Elmcreek park","Anas boschas","6","walking","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",4,2021-09-12,"Elmcreek park","Anas boschas","4","inactive","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",7,2021-09-12,"Elmcreek park","Anas boschas","8","intraspecific interaction","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",15,2021-09-13,"Elmcreek park","Anas boschas","3","intraspecific interaction","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",16,2021-09-13,"Elmcreek park","Anas boschas","1","foraging","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",10,2021-09-12,"Elmcreek park","Passer domesticus","3","walking","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",14,2021-09-12,"Elmcreek park","Passer domesticus","2","inactive","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",20,2021-09-13,"Elmcreek park","Passer domesticus","3","inactive","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",12,2021-09-12,"Elmcreek park","Columba livia","5","foraging","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",13,2021-09-12,"Elmcreek park","Columba livia","1","perching and posturing","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",5,2021-09-12,"Elmcreek park","Agelaius phoenicsue","1","inactive","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",8,2021-09-12,"Elmcreek park","Agelaius phoenicsue","1","intraspecific interaction","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",17,2021-09-13,"Elmcreek park","Agelaius phoenicsue","2","perching and posturing","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",6,2021-09-12,"Elmcreek park","Larus delawarensis","4","perching and posturing","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",9,2021-09-12,"Elmcreek park","Larus delawarensis","13","flying","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",18,2021-09-13,"Elmcreek park","Larus delawarensis","5","flying","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",19,2021-09-13,"Elmcreek park","Larus delawarensis","1","walking","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",11,2021-09-12,"Elmcreek park","Larus delawarensis","1","perching and posturing","WS","10.6084/m9.figshare.16807495"
-2021,"balcony birdwatching","full",NA,NA,NA,NA,NA,NA,NA,NA
-2021,"balcony birdwatching","full",NA,NA,NA,NA,NA,NA,NA,NA
-2021,"balcony birdwatching","full",NA,NA,NA,NA,NA,NA,NA,NA
-2021,"balcony birdwatching","full",NA,NA,NA,NA,NA,NA,NA,NA
+year,experiment,source,rep,date,location,species,frequency,behaviour,initials,citation_DOI
+2021,balcony birdwatching,full,27,2021-10-06,"Sao Paolo, Brazil",Coragyps atratus,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,70,2021-10-08,"Sao Paolo, Brazil",Coragyps atratus,3,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,90,2021-10-10,"Sao Paolo, Brazil",Coragyps atratus,3,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,24,2021-10-06,"Sao Paolo, Brazil",Pygochelidon cyanoleuca,2,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,30,2021-10-06,"Sao Paolo, Brazil",Pygochelidon cyanoleuca,2,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,49,2021-10-07,"Sao Paolo, Brazil",Pygochelidon cyanoleuca,2,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,51,2021-10-07,"Sao Paolo, Brazil",Pygochelidon cyanoleuca,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,69,2021-10-08,"Sao Paolo, Brazil",Pygochelidon cyanoleuca,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,85,2021-10-10,"Sao Paolo, Brazil",Pygochelidon cyanoleuca,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,50,2021-10-07,"Sao Paolo, Brazil",Forpus xanthopterygius,2,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,64,2021-10-07,"Sao Paolo, Brazil",Forpus xanthopterygius,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,2,2021-10-05,"Sao Paolo, Brazil",Zenaida auriculata,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,11,2021-10-05,"Sao Paolo, Brazil",Zenaida auriculata,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,25,2021-10-06,"Sao Paolo, Brazil",Zenaida auriculata,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,46,2021-10-07,"Sao Paolo, Brazil",Zenaida auriculata,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,89,2021-10-10,"Sao Paolo, Brazil",Zenaida auriculata,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,92,2021-10-10,"Sao Paolo, Brazil",Zenaida auriculata,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,3,2021-10-05,"Sao Paolo, Brazil",Leptotila rufaxila,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,93,2021-10-10,"Sao Paolo, Brazil",Leptotila rufaxila,4,foraging,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,10,2021-10-05,"Sao Paolo, Brazil",Pitangus sulphuratus,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,61,2021-10-07,"Sao Paolo, Brazil",Pitangus sulphuratus,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,68,2021-10-08,"Sao Paolo, Brazil",Pitangus sulphuratus,4,intraspecific interaction,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,79,2021-10-08,"Sao Paolo, Brazil",Pitangus sulphuratus,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,96,2021-10-10,"Sao Paolo, Brazil",Pitangus sulphuratus,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,8,2021-10-05,"Sao Paolo, Brazil",Troglodytes aedon,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,33,2021-10-06,"Sao Paolo, Brazil",Troglodytes aedon,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,74,2021-10-08,"Sao Paolo, Brazil",Troglodytes aedon,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,99,2021-10-10,"Sao Paolo, Brazil",Troglodytes aedon,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,22,2021-10-06,"Sao Paolo, Brazil",Turdus leucomelas,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,71,2021-10-08,"Sao Paolo, Brazil",Turdus leucomelas,3,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,91,2021-10-10,"Sao Paolo, Brazil",Turdus leucomelas,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,42,2021-10-06,"Sao Paolo, Brazil",Brotogeris tirica,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,87,2021-10-10,"Sao Paolo, Brazil",Brotogeris tirica,2,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,97,2021-10-10,"Sao Paolo, Brazil",Brotogeris tirica,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,57,2021-10-07,"Sao Paolo, Brazil",Columbina talpacoti,3,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,73,2021-10-08,"Sao Paolo, Brazil",Columbina talpacoti,2,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,4,2021-10-05,"Sao Paolo, Brazil",Turdus rufiventris,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,7,2021-10-05,"Sao Paolo, Brazil",Turdus rufiventris,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,14,2021-10-05,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,31,2021-10-06,"Sao Paolo, Brazil",Turdus rufiventris,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,34,2021-10-06,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,35,2021-10-06,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,38,2021-10-06,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,44,2021-10-06,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,47,2021-10-07,"Sao Paolo, Brazil",Turdus rufiventris,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,54,2021-10-07,"Sao Paolo, Brazil",Turdus rufiventris,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,59,2021-10-07,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,66,2021-10-07,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,75,2021-10-08,"Sao Paolo, Brazil",Turdus rufiventris,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,77,2021-10-08,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,78,2021-10-08,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,86,2021-10-10,"Sao Paolo, Brazil",Turdus rufiventris,1,foraging,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,95,2021-10-10,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,100,2021-10-10,"Sao Paolo, Brazil",Turdus rufiventris,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,1,2021-10-05,"Sao Paolo, Brazil",Funarius rufus,1,foraging,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,20,2021-10-05,"Sao Paolo, Brazil",Funarius rufus,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,39,2021-10-06,"Sao Paolo, Brazil",Funarius rufus,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,45,2021-10-06,"Sao Paolo, Brazil",Funarius rufus,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,56,2021-10-07,"Sao Paolo, Brazil",Funarius rufus,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,63,2021-10-07,"Sao Paolo, Brazil",Funarius rufus,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,82,2021-10-08,"Sao Paolo, Brazil",Funarius rufus,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,103,2021-10-10,"Sao Paolo, Brazil",Funarius rufus,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,5,2021-10-05,"Sao Paolo, Brazil",Thraupis sayaca,2,foraging,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,6,2021-10-05,"Sao Paolo, Brazil",Thraupis sayaca,3,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,9,2021-10-05,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,12,2021-10-05,"Sao Paolo, Brazil",Thraupis sayaca,3,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,13,2021-10-05,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,15,2021-10-05,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,17,2021-10-05,"Sao Paolo, Brazil",Thraupis sayaca,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,19,2021-10-05,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,21,2021-10-06,"Sao Paolo, Brazil",Thraupis sayaca,2,aggression,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,23,2021-10-06,"Sao Paolo, Brazil",Thraupis sayaca,3,foraging,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,26,2021-10-06,"Sao Paolo, Brazil",Thraupis sayaca,2,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,28,2021-10-06,"Sao Paolo, Brazil",Thraupis sayaca,1,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,32,2021-10-06,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,36,2021-10-06,"Sao Paolo, Brazil",Thraupis sayaca,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,37,2021-10-06,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,43,2021-10-06,"Sao Paolo, Brazil",Thraupis sayaca,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,48,2021-10-07,"Sao Paolo, Brazil",Thraupis sayaca,2,perching,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,55,2021-10-07,"Sao Paolo, Brazil",Thraupis sayaca,2,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,58,2021-10-07,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,60,2021-10-07,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,72,2021-10-08,"Sao Paolo, Brazil",Thraupis sayaca,2,inactive,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,76,2021-10-08,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,84,2021-10-10,"Sao Paolo, Brazil",Thraupis sayaca,1,inactive,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,88,2021-10-10,"Sao Paolo, Brazil",Thraupis sayaca,2,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,104,2021-10-10,"Sao Paolo, Brazil",Thraupis sayaca,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,16,2021-10-05,"Sao Paolo, Brazil",Amazona aestiva,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,18,2021-10-05,"Sao Paolo, Brazil",Amazona aestiva,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,52,2021-10-07,"Sao Paolo, Brazil",Amazona aestiva,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,62,2021-10-07,"Sao Paolo, Brazil",Amazona aestiva,3,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,98,2021-10-10,"Sao Paolo, Brazil",Amazona aestiva,2,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,40,2021-10-06,"Sao Paolo, Brazil",NA,1,inactive,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,41,2021-10-06,"Sao Paolo, Brazil",NA,1,inactive,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,53,2021-10-07,"Sao Paolo, Brazil",NA,3,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,67,2021-10-07,"Sao Paolo, Brazil",NA,1,inactive,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,80,2021-10-08,"Sao Paolo, Brazil",NA,1,inactive,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,81,2021-10-08,"Sao Paolo, Brazil",NA,1,inactive,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,101,2021-10-10,"Sao Paolo, Brazil",NA,X,inactive,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,102,2021-10-10,"Sao Paolo, Brazil",NA,X,inactive,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,29,2021-10-06,"Sao Paolo, Brazil",NA,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,94,2021-10-10,"Sao Paolo, Brazil",NA,1,flying,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,65,2021-10-07,"Sao Paolo, Brazil",Picumnus cirratus,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,83,2021-10-08,"Sao Paolo, Brazil",Picumnus cirratus,1,vocalizing,AAM,10.6084/m9.figshare.16785871
+2021,balcony birdwatching,full,12,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,1,flying,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,1,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,3,inactive,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,2,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,2,intraspecific interaction,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,3,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,3,foraging,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,4,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,5,foraging,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,5,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,4,foraging,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,6,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,3,foraging,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,7,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,2,inactive,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,8,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,1,swimming,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,10,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,1,perching,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,9,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,1,foraging,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,11,2021-09-17,"256 Centennial Park Rd., Etobicoke, Ontario, CAN",NA,1,perching,DL,10.6084/m9.figshare.16799623
+2021,balcony birdwatching,full,11,2021-09-20,"Claireville Conservation, Brampton, Ontario",Spinus tristis,6,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,12,2021-09-20,"Claireville Conservation, Brampton, Ontario",Spinus tristis,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,49,2021-09-25,"Toogood Pond, Markham, Ontario",Spinus tristis,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,50,2021-09-25,"Toogood Pond, Markham, Ontario",Spinus tristis,2,none,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,51,2021-09-25,"Toogood Pond, Markham, Ontario",Spinus tristis,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,70,2021-09-28,"Simcoe Point, Pickering, Ontario",Spinus tristis,2,none,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,71,2021-09-28,"Simcoe Point, Pickering, Ontario",Spinus tristis,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,88,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Spinus tristis,1,none,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,89,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Spinus tristis,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,30,2021-09-23,"Rouge Park, Scarborough, Ontario",Turdus migratorius,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,46,2021-09-25,"Toogood Pond, Markham, Ontario",Turdus migratorius,3,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,47,2021-09-25,"Toogood Pond, Markham, Ontario",Turdus migratorius,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,62,2021-09-28,"Simcoe Point, Pickering, Ontario",Turdus migratorius,4,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,82,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Turdus migratorius,2,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,83,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Turdus migratorius,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,105,2021-10-07,"Rouge Park, Scarborough, Ontario",Turdus migratorius,4,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,106,2021-10-07,"Rouge Park, Scarborough, Ontario",Turdus migratorius,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,107,2021-10-07,"Rouge Park, Scarborough, Ontario",Turdus migratorius,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,10,2021-09-20,"Claireville Conservation, Brampton, Ontario",Poecile atricapillus,4,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,10,2021-09-20,"Claireville Conservation, Brampton, Ontario",Poecile atricapillus,4,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,10,2021-09-20,"Claireville Conservation, Brampton, Ontario",Poecile atricapillus,4,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,10,2021-09-20,"Claireville Conservation, Brampton, Ontario",Poecile atricapillus,4,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,10,2021-09-20,"Claireville Conservation, Brampton, Ontario",Poecile atricapillus,4,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,48,2021-09-25,"Toogood Pond, Markham, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,48,2021-09-25,"Toogood Pond, Markham, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,48,2021-09-25,"Toogood Pond, Markham, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,48,2021-09-25,"Toogood Pond, Markham, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,48,2021-09-25,"Toogood Pond, Markham, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,69,2021-09-28,"Simcoe Point, Pickering, Ontario",Poecile atricapillus,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,69,2021-09-28,"Simcoe Point, Pickering, Ontario",Poecile atricapillus,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,69,2021-09-28,"Simcoe Point, Pickering, Ontario",Poecile atricapillus,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,69,2021-09-28,"Simcoe Point, Pickering, Ontario",Poecile atricapillus,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,69,2021-09-28,"Simcoe Point, Pickering, Ontario",Poecile atricapillus,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,84,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,3,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,84,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,3,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,84,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,3,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,84,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,3,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,84,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,3,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,85,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,85,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,85,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,85,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,85,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,86,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,86,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,86,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,86,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,86,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Poecile atricapillus,1,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,104,2021-10-07,"Rouge Park, Scarborough, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,104,2021-10-07,"Rouge Park, Scarborough, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,104,2021-10-07,"Rouge Park, Scarborough, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,104,2021-10-07,"Rouge Park, Scarborough, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,104,2021-10-07,"Rouge Park, Scarborough, Ontario",Poecile atricapillus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,22,2021-09-23,"Rouge Park, Scarborough, Ontario",Cyanocitta cristata,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,22,2021-09-23,"Rouge Park, Scarborough, Ontario",Cyanocitta cristata,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,22,2021-09-23,"Rouge Park, Scarborough, Ontario",Cyanocitta cristata,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,23,2021-09-23,"Rouge Park, Scarborough, Ontario",Cyanocitta cristata,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,23,2021-09-23,"Rouge Park, Scarborough, Ontario",Cyanocitta cristata,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,23,2021-09-23,"Rouge Park, Scarborough, Ontario",Cyanocitta cristata,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,55,2021-09-28,"Simcoe Point, Pickering, Ontario",Cyanocitta cristata,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,55,2021-09-28,"Simcoe Point, Pickering, Ontario",Cyanocitta cristata,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,55,2021-09-28,"Simcoe Point, Pickering, Ontario",Cyanocitta cristata,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,56,2021-09-28,"Simcoe Point, Pickering, Ontario",Cyanocitta cristata,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,56,2021-09-28,"Simcoe Point, Pickering, Ontario",Cyanocitta cristata,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,56,2021-09-28,"Simcoe Point, Pickering, Ontario",Cyanocitta cristata,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,93,2021-10-07,"Rouge Park, Scarborough, Ontario",Cyanocitta cristata,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,93,2021-10-07,"Rouge Park, Scarborough, Ontario",Cyanocitta cristata,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,93,2021-10-07,"Rouge Park, Scarborough, Ontario",Cyanocitta cristata,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,32,2021-09-23,"Rouge Park, Scarborough, Ontario",Euphagus cyanocephalus,2,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,33,2021-09-23,"Rouge Park, Scarborough, Ontario",Euphagus cyanocephalus,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,72,2021-09-28,"Simcoe Point, Pickering, Ontario",Euphagus cyanocephalus,3,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,73,2021-09-28,"Simcoe Point, Pickering, Ontario",Euphagus cyanocephalus,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,74,2021-09-28,"Simcoe Point, Pickering, Ontario",Euphagus cyanocephalus,2,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,19,2021-09-23,"Rouge Park, Scarborough, Ontario",Branta canadensis,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,7,2021-09-20,"Claireville Conservation, Brampton, Ontario",Branta canadensis,9,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,18,2021-09-23,"Rouge Park, Scarborough, Ontario",Branta canadensis,10,swimming,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,44,2021-09-25,"Toogood Pond, Markham, Ontario",Branta canadensis,8,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,45,2021-09-25,"Toogood Pond, Markham, Ontario",Branta canadensis,4,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,57,2021-09-28,"Simcoe Point, Pickering, Ontario",Branta canadensis,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,58,2021-09-28,"Simcoe Point, Pickering, Ontario",Branta canadensis,4,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,75,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Branta canadensis,10,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,100,2021-10-07,"Rouge Park, Scarborough, Ontario",Branta canadensis,2,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,101,2021-10-07,"Rouge Park, Scarborough, Ontario",Branta canadensis,4,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,16,2021-09-20,"Claireville Conservation, Brampton, Ontario",Corvus corax,2,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,17,2021-09-20,"Claireville Conservation, Brampton, Ontario",Corvus corax,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,34,2021-09-23,"Rouge Park, Scarborough, Ontario",Corvus corax,3,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,35,2021-09-23,"Rouge Park, Scarborough, Ontario",Corvus corax,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,90,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Corvus corax,1,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,91,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Corvus corax,4,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,92,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Corvus corax,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,24,2021-09-23,"Rouge Park, Scarborough, Ontario",Ardea herodias,3,swimming,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,36,2021-09-23,"Rouge Park, Scarborough, Ontario",Ardea herodias,3,swimming,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,59,2021-09-28,"Simcoe Point, Pickering, Ontario",Ardea herodias,5,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,60,2021-09-28,"Simcoe Point, Pickering, Ontario",Ardea herodias,3,swimming,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,61,2021-09-28,"Simcoe Point, Pickering, Ontario",Ardea herodias,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,108,2021-10-07,"Rouge Park, Scarborough, Ontario",Ardea herodias,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,109,2021-10-07,"Rouge Park, Scarborough, Ontario",Ardea herodias,3,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,4,2021-09-20,"Claireville Conservation, Brampton, Ontario",Passer domesticus,2,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,5,2021-09-20,"Claireville Conservation, Brampton, Ontario",Passer domesticus,4,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,20,2021-09-23,"Rouge Park, Scarborough, Ontario",Passer domesticus,2,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,21,2021-09-23,"Rouge Park, Scarborough, Ontario",Passer domesticus,3,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,39,2021-09-25,"Toogood Pond, Markham, Ontario",Passer domesticus,3,none,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,40,2021-09-25,"Toogood Pond, Markham, Ontario",Passer domesticus,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,41,2021-09-25,"Toogood Pond, Markham, Ontario",Passer domesticus,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,63,2021-09-28,"Simcoe Point, Pickering, Ontario",Passer domesticus,3,none,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,64,2021-09-28,"Simcoe Point, Pickering, Ontario",Passer domesticus,2,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,65,2021-09-28,"Simcoe Point, Pickering, Ontario",Passer domesticus,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,81,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Passer domesticus,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,102,2021-10-07,"Rouge Park, Scarborough, Ontario",Passer domesticus,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,103,2021-10-07,"Rouge Park, Scarborough, Ontario",Passer domesticus,2,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,6,2021-09-20,"Claireville Conservation, Brampton, Ontario",Archilochus colubris,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,31,2021-09-23,"Rouge Park, Scarborough, Ontario",Archilochus colubris,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,54,2021-09-28,"Simcoe Point, Pickering, Ontario",Archilochus colubris,3,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,87,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Archilochus colubris,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,110,2021-10-07,"Rouge Park, Scarborough, Ontario",Archilochus colubris,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,13,2021-09-20,"Claireville Conservation, Brampton, Ontario",Anas platyrhynchos,2,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,14,2021-09-20,"Claireville Conservation, Brampton, Ontario",Anas platyrhynchos,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,15,2021-09-20,"Claireville Conservation, Brampton, Ontario",Anas platyrhynchos,3,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,52,2021-09-25,"Toogood Pond, Markham, Ontario",Anas platyrhynchos,2,swimming,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,53,2021-09-25,"Toogood Pond, Markham, Ontario",Anas platyrhynchos,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,1,2021-09-20,"Claireville Conservation, Brampton, Ontario",Larus smithsonianus,10,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,2,2021-09-20,"Claireville Conservation, Brampton, Ontario",Larus smithsonianus,3,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,3,2021-09-20,"Claireville Conservation, Brampton, Ontario",Larus smithsonianus,6,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,28,2021-09-23,"Rouge Park, Scarborough, Ontario",Larus smithsonianus,7,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,29,2021-09-23,"Rouge Park, Scarborough, Ontario",Larus smithsonianus,8,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,37,2021-09-25,"Toogood Pond, Markham, Ontario",Larus smithsonianus,7,swimming,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,38,2021-09-25,"Toogood Pond, Markham, Ontario",Larus smithsonianus,4,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,76,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Larus smithsonianus,8,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,77,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Larus smithsonianus,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,78,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Larus smithsonianus,2,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,94,2021-10-07,"Rouge Park, Scarborough, Ontario",Larus smithsonianus,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,95,2021-10-07,"Rouge Park, Scarborough, Ontario",Larus smithsonianus,4,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,96,2021-10-07,"Rouge Park, Scarborough, Ontario",Larus smithsonianus,2,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,97,2021-10-07,"Rouge Park, Scarborough, Ontario",Larus smithsonianus,4,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,8,2021-09-20,"Claireville Conservation, Brampton, Ontario",Setophaga castanea,5,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,9,2021-09-20,"Claireville Conservation, Brampton, Ontario",Setophaga castanea,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,25,2021-09-23,"Rouge Park, Scarborough, Ontario",Setophaga castanea,4,none,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,26,2021-09-23,"Rouge Park, Scarborough, Ontario",Setophaga castanea,2,aggression,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,27,2021-09-23,"Rouge Park, Scarborough, Ontario",Setophaga castanea,1,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,42,2021-09-25,"Toogood Pond, Markham, Ontario",Setophaga castanea,1,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,43,2021-09-25,"Toogood Pond, Markham, Ontario",Setophaga castanea,5,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,66,2021-09-28,"Simcoe Point, Pickering, Ontario",Setophaga castanea,3,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,67,2021-09-28,"Simcoe Point, Pickering, Ontario",Setophaga castanea,3,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,68,2021-09-28,"Simcoe Point, Pickering, Ontario",Setophaga castanea,1,foraging,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,79,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Setophaga castanea,4,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,80,2021-10-03,"Coxwell Ravine Park, East York, Ontario",Setophaga castanea,2,none,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,98,2021-10-07,"Rouge Park, Scarborough, Ontario",Setophaga castanea,3,flying,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,99,2021-10-07,"Rouge Park, Scarborough, Ontario",Setophaga castanea,3,inactive,JK,10.6084/m9.figshare.16804525
+2021,balcony birdwatching,full,4,2021-09-30,"High Park, Toronto",Cyanocitta cristata,1,foraging,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,4,2021-09-30,"High Park, Toronto",Cyanocitta cristata,1,foraging,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,4,2021-09-30,"High Park, Toronto",Cyanocitta cristata,1,foraging,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,1,2021-09-30,"High Park, Toronto",Branta canadensis,3,vocalizing,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,11,2021-10-01,"Kortright Centre Trail, Vaughan",Branta canadensis,3,swimming,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,16,2021-10-01,"Kortright Centre Trail, Vaughan",Branta canadensis,2,perching,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,24,2021-10-02,"Cunningham Pond, Vaughan",Branta canadensis,3,swimming,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,29,2021-10-02,"Cunningham Pond, Vaughan",Branta canadensis,1,perching,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,6,2021-09-30,"High Park, Toronto",NA,1,foraging,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,14,2021-10-01,"Kortright Centre Trail, Vaughan",Lophodytes cucullatus,2,foraging,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,19,2021-10-01,"Kortright Centre Trail, Vaughan",Lophodytes cucullatus,1,swimming,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,2,2021-09-30,"High Park, Toronto",Anas platyrhynchos,16,foraging,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,9,2021-09-30,"High Park, Toronto",Anas platyrhynchos,5,swimming,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,13,2021-10-01,"Kortright Centre Trail, Vaughan",Anas platyrhynchos,9,swimming,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,17,2021-10-01,"Kortright Centre Trail, Vaughan",Anas platyrhynchos,5,perching,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,23,2021-10-02,"Cunningham Pond, Vaughan",Anas platyrhynchos,11,swimming,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,25,2021-10-02,"Cunningham Pond, Vaughan",Anas platyrhynchos,8,perching,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,26,2021-10-02,"Cunningham Pond, Vaughan",Anas platyrhynchos,8,foraging,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,7,2021-09-30,"High Park, Toronto",NA,1,perching,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,5,2021-09-30,"High Park, Toronto",Larus delawarensis,2,walking,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,21,2021-10-02,"Cunningham Pond, Vaughan",Larus delawarensis,2,flying,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,28,2021-10-02,"Cunningham Pond, Vaughan",Larus delawarensis,1,perching,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,30,2021-10-02,"Cunningham Pond, Vaughan",Larus delawarensis,1,foraging,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,8,2021-09-30,"High Park, Toronto",Melospiza melodia,2,flying,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,22,2021-10-02,"Cunningham Pond, Vaughan",Melospiza melodia,3,flying,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,27,2021-10-02,"Cunningham Pond, Vaughan",Melospiza melodia,2,perching,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,15,2021-10-01,"Kortright Centre Trail, Vaughan",Cathartes aura,2,flying,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,18,2021-10-01,"Kortright Centre Trail, Vaughan",Cathartes aura,3,flying,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,20,2021-10-01,"Kortright Centre Trail, Vaughan",Cathartes aura,1,foraging,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,3,2021-09-30,"High Park, Toronto",Aix sponsa,5,swimming,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,10,2021-09-30,"High Park, Toronto",Aix sponsa,2,flying,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,12,2021-10-01,"Kortright Centre Trail, Vaughan",Aix sponsa,1,vocalizing,NK,10.6084/m9.figshare.16807873
+2021,balcony birdwatching,full,2,2021-09-16,"Atkinson building, York University, Toronto",Turdus migratorius,1,inactive,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,3,2021-09-16,"Atkinson building, York University, Toronto",Turdus migratorius,1,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,11,2021-09-17,"Atkinson building, York University, Toronto",Turdus migratorius,1,inactive,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,19,2021-09-23,"Atkinson building, York University, Toronto",Turdus migratorius,1,inactive,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,6,2021-09-16,"Atkinson building, York University, Toronto",Setophaga castanea,1,perching,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,8,2021-09-17,"Atkinson building, York University, Toronto",Setophaga castanea,1,perching,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,17,2021-09-21,"Atkinson building, York University, Toronto",Setophaga castanea,1,flying,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,22,2021-09-24,"Atkinson building, York University, Toronto",Setophaga castanea,1,foraging,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,4,2021-09-16,"Atkinson building, York University, Toronto",Poecile atricapillus,1,flying,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,4,2021-09-16,"Atkinson building, York University, Toronto",Poecile atricapillus,1,flying,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,4,2021-09-16,"Atkinson building, York University, Toronto",Poecile atricapillus,1,flying,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,4,2021-09-16,"Atkinson building, York University, Toronto",Poecile atricapillus,1,flying,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,4,2021-09-16,"Atkinson building, York University, Toronto",Poecile atricapillus,1,flying,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,1,2021-09-16,"Atkinson building, York University, Toronto",Cyanocitta cristata,2,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,1,2021-09-16,"Atkinson building, York University, Toronto",Cyanocitta cristata,2,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,1,2021-09-16,"Atkinson building, York University, Toronto",Cyanocitta cristata,2,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,12,2021-09-20,"Atkinson building, York University, Toronto",Cyanocitta cristata,1,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,12,2021-09-20,"Atkinson building, York University, Toronto",Cyanocitta cristata,1,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,12,2021-09-20,"Atkinson building, York University, Toronto",Cyanocitta cristata,1,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,21,2021-09-23,"Atkinson building, York University, Toronto",Cyanocitta cristata,1,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,21,2021-09-23,"Atkinson building, York University, Toronto",Cyanocitta cristata,1,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,21,2021-09-23,"Atkinson building, York University, Toronto",Cyanocitta cristata,1,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,5,2021-09-16,"Atkinson building, York University, Toronto",Passer domesticus,16,foraging,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,9,2021-09-17,"Atkinson building, York University, Toronto",Passer domesticus,13,foraging,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,13,2021-09-20,"Atkinson building, York University, Toronto",Passer domesticus,15,foraging,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,15,2021-09-21,"Atkinson building, York University, Toronto",Passer domesticus,15,foraging,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,18,2021-09-22,"Atkinson building, York University, Toronto",Passer domesticus,15,foraging,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,20,2021-09-23,"Atkinson building, York University, Toronto",Passer domesticus,15,foraging,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,23,2021-09-24,"Atkinson building, York University, Toronto",Passer domesticus,1,flying,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,7,2021-09-16,"Atkinson building, York University, Toronto",Cardinalis cardinalis,1,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,10,2021-09-17,"Atkinson building, York University, Toronto",Cardinalis cardinalis,1,perching,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,16,2021-09-21,"Atkinson building, York University, Toronto",Cardinalis cardinalis,1,vocalizing,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,14,2021-09-20,"Atkinson building, York University, Toronto",Cathartes aura,2,flying,NR,https://figshare.com/articles/dataset/Bird_Observations_In_Toronto_Parks_2021/16785775
+2021,balcony birdwatching,full,1,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,3,intraspecific interaction,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,2,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,3,flying,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,3,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,2,foraging,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,4,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,1,foraging,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,5,2021-10-09,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,1,perching,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,6,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,3,flying,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,7,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,2,perching,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,8,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,4,none,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,9,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,1,foraging,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,10,2021-10-11,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,2,inactive,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,11,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,10,none,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,12,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,2,foraging,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,13,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,8,flying,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,14,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,5,perching,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,15,2021-10-12,"Beaumonde Heights Park, Etobicoke, Ontario",Passer domesticus,3,none,QK,10.6084/m9.figshare.16807204
+2021,balcony birdwatching,full,15,2021-10-11,"Holland Marsh, Simcoe, Ontario",Anas Rubripes,1,swimming,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,10,2021-10-10,"Holland Landing Prairie, Simcoe",Corvus Brachyrhynchos,1,perching,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,4,2021-10-08,"Scanlon Creek, Simcoe, Ontario",Poecile Atricapillus,2,swimming,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,17,2021-10-11,"Holland Marsh, Simcoe, Ontario",Spatula Discors,2,flying,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,3,2021-10-08,"Scanlon Creek, Simcoe, Ontario",Cyanocitta Cristata,4,vocalizing,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,1,2021-10-07,"Sewage Lagoons, Schomberg",Branta Canadensis,2,perching,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,7,2021-10-09,"Tom Taylor Trail, Newmarket",Branta Canadensis,3,perching,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,18,2021-10-11,"Holland Marsh, Simcoe, Ontario",Branta Canadensis,4,inactive,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,20,2021-10-11,"Holland Marsh, Simcoe, Ontario",Anas Crecca,2,perching,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,5,2021-10-08,"Scanlon Creek, Simcoe, Ontario",Dryobates Villosus,2,flying,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,12,2021-10-10,"Holland Landing Prairie, Simcoe",Dryobates Villosus,7,flying,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,14,2021-10-10,"Holland Landing Prairie, Simcoe",Passer domesticus,12,foraging,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,2,2021-10-07,"Sewage Lagoons, Schomberg",Anas Platyrhynchos,7,swimming,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,16,2021-10-11,"Holland Marsh, Simcoe, Ontario",Anas Platyrhynchos,10,swimming,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,8,2021-10-09,"Tom Taylor Trail, Newmarket",Anas Platyrhynchos,10,swimming,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,9,2021-10-09,"Tom Taylor Trail, Newmarket",Zenaida Macroura,6,vocalizing,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,13,2021-10-10,"Holland Landing Prairie, Simcoe",Melanerpes Carolinus,12,flying,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,6,2021-10-08,"Scanlon Creek, Simcoe, Ontario",Corthylio Calendula,1,flying,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,11,2021-10-10,"Holland Landing Prairie, Simcoe",Cathartes Aura,2,inactive,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,19,2021-10-11,"Holland Marsh, Simcoe, Ontario",Aix Sponsa,4,swimming,SA,10.6084/m9.figshare.16807924
+2021,balcony birdwatching,full,1,2021-09-12,Elmcreek park,Spinus tristis,2,perching,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,2,2021-09-12,Elmcreek park,Anas boschas,10,swimming,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,3,2021-09-12,Elmcreek park,Anas boschas,6,walking,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,4,2021-09-12,Elmcreek park,Anas boschas,4,inactive,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,7,2021-09-12,Elmcreek park,Anas boschas,8,intraspecific interaction,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,15,2021-09-13,Elmcreek park,Anas boschas,3,intraspecific interaction,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,16,2021-09-13,Elmcreek park,Anas boschas,1,foraging,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,10,2021-09-12,Elmcreek park,Passer domesticus,3,walking,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,14,2021-09-12,Elmcreek park,Passer domesticus,2,inactive,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,20,2021-09-13,Elmcreek park,Passer domesticus,3,inactive,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,12,2021-09-12,Elmcreek park,Columba livia,5,foraging,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,13,2021-09-12,Elmcreek park,Columba livia,1,perching,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,5,2021-09-12,Elmcreek park,Agelaius phoenicsue,1,inactive,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,8,2021-09-12,Elmcreek park,Agelaius phoenicsue,1,intraspecific interaction,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,17,2021-09-13,Elmcreek park,Agelaius phoenicsue,2,perching,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,6,2021-09-12,Elmcreek park,Larus delawarensis,4,perching,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,9,2021-09-12,Elmcreek park,Larus delawarensis,13,flying,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,18,2021-09-13,Elmcreek park,Larus delawarensis,5,flying,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,19,2021-09-13,Elmcreek park,Larus delawarensis,1,walking,WS,10.6084/m9.figshare.16807495
+2021,balcony birdwatching,full,11,2021-09-12,Elmcreek park,Larus delawarensis,1,perching,WS,10.6084/m9.figshare.16807495

@@ -1,12 +1,12 @@
-behaviour,definition
-foraging,Seeking food
-aggression,Behaviour with potentially injurious consequences for other party
-intraspecific interaction,Otherwise non-definable interaction with conspecific
-interspecific interaction,Otherwise non-definable interaction with interspecific 
-vocalizing,Singing or calling
-perching and posturing,"Positioned on tree, bush, or other structure"
-flying,Traveling through the air
-swimming,"Wading, walking, bathing, or swimming in water"
-walking,Traveling on ground
-inactive,No movement
-none,Does not align in with a clear category or none was reported
+behaviour,definition,frequency
+foraging,Seeking food,87
+aggression,Behaviour with potentially injurious consequences for other party,14
+intraspecific interaction,Otherwise non-definable interaction with conspecific,6
+interspecific interaction,Otherwise non-definable interaction with interspecific,0
+vocalizing,Singing or calling,64
+perching and posturing,"Positioned on tree, bush, or other structure",38
+flying,Traveling through the air,81
+swimming,"Wading, walking, bathing, or swimming in water",21
+walking,Traveling on ground,4
+inactive,No movement,59
+none,Does not align in with a clear category or none was reported,10
