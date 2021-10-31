@@ -45,28 +45,28 @@ total cover is the total cover of vegetation within the 0.5m quadrat capped at 1
 
 
 ### Data  
-Data checks.  
+Data checks  
 ```{r}
 library(tidyverse)  
 library(skimr)
 library(lubridate)
 
 #bioblitz
-bioblitz <- read_csv("data/designcraft4expts_bioblitz.csv") %>% 
+bioblitz <- read_csv("data/2021/designcraft4expts_bioblitz2021.csv") %>% 
   mutate(date = mdy(date))
 problems(bioblitz)
 str(bioblitz)
 skim(bioblitz)
 
 #birds
-birds <- read_csv("data/designcraft4expts_birds.csv") %>% 
+birds <- read_csv("data/2021/designcraft4expts_birds2021.csv") %>% 
   mutate(date = mdy(date))
 problems(birds)
 str(birds)
 skim(birds)
 
 #survey
-survey <- read_csv("data/designcraft4expts_solo_surveys.csv") %>% 
+survey <- read_csv("data/2021/designcraft4expts_solo_surveys2021.csv") %>% 
   mutate(date = mdy(date))
 problems(survey)
 str(survey)
